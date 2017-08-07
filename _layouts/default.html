@@ -1,0 +1,58 @@
+<!doctype html>
+<!--
+ * A Design by GraphBerry
+ * Author: GraphBerry
+ * Author URL: http://graphberry.com
+ * License: http://graphberry.com/pages/license
+-->
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+	
+	<!-- Google Analytics -->
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-59027026-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+
+
+	
+		{% include nav.html %}
+		{% include home_section.html %}
+		{% include gig_section.md %}
+
+	
+	<!-- ScrollUp button start -->
+	<div class="scrollup">
+		<a href="#">
+			<i class="icon-up-open"></i>
+		</a>
+	</div>
+	<!-- ScrollUp button end -->
+	
+	<!-- Include javascript -->
+	<script src="{{ site.url }}/assets/js/jquery.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/jquery.mixitup.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/bootstrap.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/modernizr.custom.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/jquery.bxslider.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/jquery.cslider.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/jquery.placeholder.js"></script>
+	<script type="text/javascript" src="{{ site.url }}/assets/js/jquery.inview.js"></script>
+	<!-- Load google maps api and call initializeMap function defined in app.js -->
+	<!-- <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;callback=initializeMap"></script> -->
+	<!-- css3-mediaqueries.js for IE8 or older -->
+	<!--[if lt IE 9]>
+		<script src="js/respond.min.js"></script>
+	<![endif]-->
+	<script type="text/javascript" src="{{ site.url }}/assets/js/app.js"></script>
+		
+</body>
+</html>
