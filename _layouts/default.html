@@ -25,9 +25,7 @@
 
 	
 		{% include nav.html %}
-		{% include home_section.html %}
-		{% include gig_section.md %}
-
+		{{ content }}
 	
 	<!-- ScrollUp button start -->
 	<div class="scrollup">
@@ -36,7 +34,7 @@
 		</a>
 	</div>
 	<!-- ScrollUp button end -->
-	
+		
 	<!-- Include javascript -->
 	<script src="{{ site.baseurl }}/assets/js/jquery.js"></script>
 	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.mixitup.js"></script>
