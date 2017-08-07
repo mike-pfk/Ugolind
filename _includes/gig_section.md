@@ -24,7 +24,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="{{ site.url }}/assets/images/Woodman.png" alt="The Woodman Pub, Bradford">
+                                <img class="img-circle" src="{{ site.baseurl }}/assets/images/Woodman.png" alt="The Woodman Pub, Bradford">
                             </div>
                             <h3>The Woodman</h3>
 			                <h4>Saturday 23rd September 2017</h4>
@@ -34,7 +34,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="{{ site.url }}/assets/images/available-for-gigs.png" alt="Contact Us" />
+                                <img class="img-circle" src="{{ site.baseurl }}/assets/images/available-for-gigs.png" alt="Contact Us" />
                             </div>
                             <h3>Your Party?</h3>
                       	    <h4>Give Mike a Call</h4>
@@ -44,7 +44,7 @@
                     <div class="span4">
                         <div class="centered service">
                             <div class="circle-border zoom-in">
-                                <img class="img-circle" src="{{ site.url }}/assets/images/highfield.jpg" alt="The Highfield, Idle, Bradford">
+                                <img class="img-circle" src="{{ site.baseurl }}/assets/images/highfield.jpg" alt="The Highfield, Idle, Bradford">
                             </div>
                             <h3>The Highfield</h3>
 			                <h4>Saturday 7th October 2017</h4>
