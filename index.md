@@ -108,7 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 7th October 2017** - The Highfield, Idle  
 **Thursday 26th October 2017** - Caroline St Club, Saltaire  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
-**Saturday 9th December 2017** - Birthday Party, Saltaire
+**Saturday 9th December 2017** - Birthday Party, Saltaire  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
 
