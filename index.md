@@ -106,11 +106,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 23rd September 2017** - The Woodman, Bradford  
 **Saturday 7th October 2017** - The Highfield, Idle  
-**Thursday 26th October 2017** - Caroline St Club, Saltaire  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
 **Saturday 9th December 2017** - Birthday Party, Saltaire  
+**Friday 15th December 2017** - People First Christmas Party  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
+**Thursday 15th February 2018** - Caroline St Club, Saltaire
 
 ### Recent Gigs
 
