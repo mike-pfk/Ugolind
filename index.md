@@ -20,13 +20,13 @@ layout: default
 				<p>Playing for Kicks play songs you know and love from the Beatles to Buble and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/members-2017.png" alt="Band Members" width="320">
+					<img src="{{ site.baseurl }}/assets/images/members/members-2017.png" alt="Band Members" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
 			<!-- Start second slide -->
 			<div class="da-slide">
-			 <h2>Classic Rock and Pop:</h2>
+			<h2>Classic Rock and Pop:</h2>
 				<h4>Songs For Everybody</h4>
 				<p>The Beatles, The Killers, Pet Shop Boys, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Toploader and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
@@ -74,7 +74,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Woodman.png" alt="The Woodman Pub, Bradford">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="The Woodman Pub, Bradford">
 					</div>
 					<h3>The Woodman</h3>
 					<h4>Saturday 23rd September 2017</h4>
@@ -94,7 +94,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/highfield.jpg" alt="The Highfield, Idle, Bradford">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="The Highfield, Idle, Bradford">
 					</div>
 					<h3>The Highfield</h3>
 					<h4>Saturday 7th October 2017</h4>
