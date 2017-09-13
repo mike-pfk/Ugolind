@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Playing For Kicks
 layout: default
 ---
 	
