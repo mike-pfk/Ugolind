@@ -843,6 +843,10 @@ p {
         border-radius:40px;
         line-height: 80px;
     }
+    /*Band Member Photos fix */
+    .row-fluid .span2 { 
+		width: 17.8%;
+	}
 }
 @media (max-width: 979px) {
     body {
