@@ -17,7 +17,7 @@ layout: default
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
 				<h4>Classic Rock &amp; Pop Covers</h4>
-				<p>Playing for Kicks play songs you know and love from the Beatles to Buble and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
+				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/members/members-2017.png" alt="Band Members" width="320">
@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Classic Rock and Pop:</h2>
 				<h4>Songs For Everybody</h4>
-				<p>The Beatles, The Killers, Pet Shop Boys, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Toploader and many more...</p>
+				<p>The Beatles, The Killers, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Hall & Oates, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/bands.png" width="320" alt="Band Photo">
