@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="The Woodman Pub, Bradford">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="The Highfield, Idle, Bradford">
 					</div>
-					<h3>The Woodman</h3>
-					<h4>Saturday 23rd September 2017</h4>
-					<p>Manchester Road, Bradford</p>
+					<h3>The Highfield</h3>
+					<h4>Saturday 7th October 2017</h4>
+					<p>Highfield Road, Idle</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -94,11 +94,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="The Highfield, Idle, Bradford">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="All Inc Halloween Party">
 					</div>
-					<h3>The Highfield</h3>
-					<h4>Saturday 7th October 2017</h4>
-					<p>Highfield Road, Idle</p>
+					<h3>All Inc Halloween Party</h3>
+					<h4>Thursday 26th October 2017</h4>
+					<p>Caroline St Club, Saltaire</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
@@ -111,7 +111,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Friday 15th December 2017** - People First Christmas Party  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
-**Thursday 15th February 2018** - Caroline St Club, Saltaire
+**Thursday 15th February 2018** - Caroline St Club, Saltaire  
 **Saturday 3rd March 2017** - The Woodman, Bradford  
 
 ### Recent Gigs
