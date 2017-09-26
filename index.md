@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 23rd September 2017** - The Woodman, Bradford  
 **Saturday 7th October 2017** - The Highfield, Idle  
+**Thursday 26th October 2017** - All Inc Halloween Party  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
 **Saturday 9th December 2017** - Birthday Party, Saltaire  
 **Friday 15th December 2017** - People First Christmas Party  
@@ -122,8 +123,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **January 2017** - People First New Years Party **&amp;** New Inn, Eccleshill  
 **December 2016** - Ryshworth Club Fundraising Evening  
 **November 2016** - Caths 'Big Birthday' Bash  
-**October 2016** - The New Inn, Wilsden **&amp;** All Inc. Halloween Party  
-**September 2016** - The Brown Cow, Bingley  
 
 </div>
 			
