@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 23rd September 2017** - The Woodman, Bradford  
 **Saturday 7th October 2017** - The Highfield, Idle  
 **Thursday 26th October 2017** - All Inc Halloween Party  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
@@ -113,9 +112,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
 **Thursday 15th February 2018** - Caroline St Club, Saltaire
+**Saturday 3rd March 2017** - The Woodman, Bradford  
 
 ### Recent Gigs
 
+**September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
 **June 2017** - Ilkley Tennis Club  
 **April 2017** - The New Inn, Wilsden  
