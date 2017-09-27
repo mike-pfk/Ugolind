@@ -112,7 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
 **Thursday 15th February 2018** - Caroline St Club, Saltaire  
-**Saturday 3rd March 2017** - The Woodman, Bradford  
+**Saturday 3rd March 2018** - The Woodman, Bradford  
 
 ### Recent Gigs
 
