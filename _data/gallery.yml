@@ -1,0 +1,64 @@
+gigs:
+
+- number: 0
+  title: "Ryshworth Club"
+  photo: "ryshworth-20161210.jpg"
+  when: "December 2016"
+  what: "French Refugee Fundraiser"
+  description: "Complete with special guest bassist, Chris Gates, we played at a fundraiser following on from our Calais and Clowns Without Borders events earlier in the year. This time the funds raised went to provide sleeping bags for those sleeping on the streets of Calais."
+
+- number: 1
+  title: "Caroline Street Social Club"
+  photo: "shipley-20160701.png"
+  when: "July 2016"
+  what: "Clowns Without Borders"
+  description: "Following on from our Calais Fundraiser earlier in the year, we felt it was important to raise more money to help send Clowns Without Borders to the refugee camps in France. There, they work hard to distract those in the camps from the appalling conditions around them."
+  
+- number: 2
+  title: "The Woodman, Manchester Road"
+  photo: "woodman-20160212.jpg"
+  when: "February 2016"
+  what: "Pub Gig"
+  description: "We've had a good run of gigs at The Woodman, where there's always been a fantastic crowd to support us.  It was great to be asked to play on the outgoing Landlord and Landlady's final weekend.  It was also our first opportunity to show off our new bass player, Pete."
+
+- number: 3
+  title: "The New Inn, Wilsden" 
+  photo: "new-inn-nov-15.jpg"
+  when: "November 2015"
+  what: "The New Inn, Wilsden"
+  description: "After a bit of a break it was great to be back at the New Inn in Wilsden.  A great crowd turned up to see Dave's final public appearance with us as Bass Player, along with a special guest Landlord on drums."
+
+- number: 4              
+  photo: "grim-oct-15.jpg" 
+  title: "Grim Up North"
+  when: "October 2015"
+  what: "Grim Up North"
+  description: "They say it's Grim Up North, but despite the weather the Scout Leaders were in fine voice for the encore at their annual training weekend.  Is this the real life, or is it just a fantasy..."
+                  
+- number: 5                
+  photo: "clayton-aug-15.jpg"
+  title: "Clayton Golf Club"
+  when: "August 2015"
+  what: "Family Fun Day"
+  description: "We were delighted to be invited to play at the Clayton Golf Club Annual Family Fun Day.  We all had a great time, and also managed to raise some money for this years nominated charity."
+  
+- number: 6               
+  photo: "15mayshipley.jpg"
+  title: "High Park Heroes"
+  when: "May 2015"
+  what: "High Park Heroes"
+  description: "We were proud to be involved in the first ever High Park Heroes FUNdraising evening - the highlight of the evening being Live Karaoke with Playing for Kicks as a live backing band."
+  
+- number: 7                 
+  photo: "14deccrossflatts.jpg"
+  title: "Crossflatts Cricket Club"   
+  when: "December 2014"
+  what: "Birthday Party"
+  description: "This was our first outing as a four piece and we battled the nerves to put on a great show for a 50th birthday party."
+
+- number: 8
+  photo: "14novshipleysocial.jpg" 
+  title: "Shipley Social Club"
+  when: "November 2014"
+  what: "Halloween Party"
+  description: "Our good friends at All Inc had us back for their Halloween Party, where we were able to say farewell to Nige and Dave, who left us after 5 years of outstanding performances."
