@@ -11,15 +11,11 @@
                     </button>
                     <!-- Main navigation -->
                     <div class="nav-collapse collapse pull-right">
-                        <ul class="nav" id="top-navigation">
-                            <li class="active"><a href="#home">Home</a></li>
-                            <li><a href="#gigs">Gigs</a></li>
-                            <li><a href="#gallery">Gallery</a></li>
-                            <li><a href="#about">Who Are We?</a></li>
-                            <!-- <li><a href="#clients">Past Gigs</a></li> -->
-                            <!-- <li><a href="#price">Price</a></li> -->
-                            <li><a href="#contact">Contact</a></li>
-                        </ul>
+						<ul class="nav" id="top-navigation">
+							{% for item in site.data.navigation.links %}
+								<li class="{% if item.url %}active{% endif %}"><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+							{% endfor %}
+						</ul>
                     </div>
                     <!-- End main navigation -->
                 </div>

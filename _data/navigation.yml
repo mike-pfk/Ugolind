@@ -1,0 +1,16 @@
+links:
+
+- title: Home
+  url: '#home'
+
+- title: Gigs
+  url: '#gigs'
+
+- title: Gallery
+  url: '#gallery'
+
+- title: Who Are We?
+  url: '#about'
+  
+- title: Contact
+  url: '#contact'
