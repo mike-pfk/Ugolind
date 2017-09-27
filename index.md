@@ -2,57 +2,30 @@
 title: Playing For Kicks
 layout: default
 ---
-	
 						
 <!-- Start home section -->
 <div id="home">
 	<!-- Start cSlider -->
 	<div id="da-slider" class="da-slider">
-		<div class="triangle"></div>
+		<!--<div class="triangle"></div>-->
 		<!-- mask elemet use for masking background image -->
 		<div class="mask"></div>
 		<!-- All slides centred in container element -->
 		<div class="container">
 			<!-- Start first slide -->
 			<div class="da-slide">
-				<h2 class="fittext2">Playing For Kicks</h2>
-				<h4>Classic Rock &amp; Pop Covers</h4>
-				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
-				<!-- <a href="#" class="da-link button">Read more</a> -->
+				<h2 class="fittext2" style="top:80px">Playing For Kicks</h2>
+				<h4 style="top:125px">Classic Rock &amp; Pop Covers</h4>
+				<p style="height:250px;top:180px">Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.
+				<br/><br/>The Beatles, The Killers, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Hall & Oates, The Jags and many more...
+				<br/><br/>Looking for a band for an event, function or your music venue? Come along to one of our
+gigs to check us out, and/or contact us to check our availability.</p>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/members/members-2017.png" alt="Band Members" width="320">
+					<!--<img src="{{ site.baseurl }}/assets/images/members/members-2017.png" alt="Band Members" width="320">-->
+					<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPlayingforkicks%2Fvideos%2F1582806775075427%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 				</div>
 			</div>
 			<!-- End first slide -->
-			<!-- Start second slide -->
-			<div class="da-slide">
-			<h2>Classic Rock and Pop:</h2>
-				<h4>Songs For Everybody</h4>
-				<p>The Beatles, The Killers, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Hall & Oates, The Jags and many more...</p>
-				<!-- <a href="#" class="da-link button">Read more</a> -->
-				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/bands.png" width="320" alt="Band Photo">
-				</div>
-			</div>
-			<!-- End second slide -->
-			<!-- Start third slide -->
-			<div class="da-slide">
-				<h2>Book Us!</h2>
-				<h4>Event, Function, Venue?</h4>
-				<p>Looking for a band for an event, function or your music venue? Come along to one of our
-gigs to check us out, and/or contact us to check our availability.</p>
-				<a href="#contact" class="da-link button">Contact us</a>
-				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/book-us.png" width="320" alt="Book Us">
-				</div>
-			</div>
-			<!-- End third slide -->
-			<!-- Start cSlide navigation arrows -->
-			<div class="da-arrows">
-				<span class="da-arrows-prev"></span>
-				<span class="da-arrows-next"></span>
-			</div>
-			<!-- End cSlide navigation arrows -->
 		</div>
 	</div>
 </div>
