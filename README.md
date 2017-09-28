@@ -18,4 +18,7 @@ Update the _data/gallery.yml file
 Be careful to keep the indents as they are in the file
 Be careful to close quotes
 
-Add pictures to the assets/images/gigs directory
+The images will show in the order encountered in file, not number order, so just put a new one at the top
+(The numbers don't actually matter as long as they are all different)
+
+Add pictures to the assets/images/gigs directory (on the branch you are working on - or directly on the gh-pages branch)

@@ -8,14 +8,14 @@ gigs:
   description: "We spent a great session at Prospect recording and filming a few songs. We were really happy with the results."
 
 - number: 1
- title: "Ryshworth Club"
+  title: "Ryshworth Club"
   photo: "ryshworth-20161210.jpg"
   when: "December 2016"
   what: "French Refugee Fundraiser"
   description: "Complete with special guest bassist, Chris Gates, we played at a fundraiser following on from our Calais and Clowns Without Borders events earlier in the year. This time the funds raised went to provide sleeping bags for those sleeping on the streets of Calais."
   
 - number: 2
-    title: "Caroline Street Social Club"
+  title: "Caroline Street Social Club"
   photo: "shipley-20160701.png"
   when: "July 2016"
   what: "Clowns Without Borders"
