@@ -115,7 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**October 2017** - Highfield, Idle
+**October 2017** - Highfield, Idle  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
 **June 2017** - Ilkley Tennis Club  
