@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Classic Rock and Pop:</h2>
 				<h4>Songs For Everybody</h4>
-				<p>The Beatles, The Killers, Eurythmics, OMD, Status Quo, Stereophonics, Buddy Holly, The Cure, The Commodores, Steve Harley, The Calling, Hall & Oates, The Jags and many more...</p>
+				<p>The Beatles, Eurythmics, OMD, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/bands.png" width="320" alt="Band Photo">
@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/highfield.jpg" alt="The Highfield, Idle, Bradford">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="All Inc Halloween Party">
 					</div>
-					<h3>The Highfield</h3>
-					<h4>Saturday 7th October 2017</h4>
-					<p>Highfield Road, Idle</p>
+					<h3>All Inc Halloween Party</h3>
+					<h4>Thursday 26th October 2017</h4>
+					<p>Caroline St Club, Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -94,17 +94,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="All Inc Halloween Party">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="The Acorn, Eldwick">
 					</div>
-					<h3>All Inc Halloween Party</h3>
-					<h4>Thursday 26th October 2017</h4>
-					<p>Caroline St Club, Saltaire</p>
+					<h3>The Acorn</h3>
+					<h4>Saturday 2nd December 2017</h4>
+					<p>Eldwick</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 7th October 2017** - The Highfield, Idle  
 **Thursday 26th October 2017** - All Inc Halloween Party  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
 **Saturday 9th December 2017** - Birthday Party, Saltaire  
@@ -116,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
+**October 2017** - Highfield, Idle
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
 **June 2017** - Ilkley Tennis Club  
