@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
-  title: "Recording session"
+  title: "The Highfield"
+  photo: "Highfield 8.jpg"
+  when: "October 2017"
+  what: "Our first visit to The Highfield"
+  description: "We squeezed onto the stage and played a couple of sets for a few of our friends and the regulars. The newer songs are settling in well."
+
+- number: 1
+  title: "Recording Session"
   photo: "Recording1.jpg"
   when: "July 2017"
   what: "Recording at Prospect Studios"
-  description: "We spent a great session at Prospect recording and filming a few songs. We were really happy with the results."
-
-- number: 1
+  description: "We spent a great session at Prospect recording and filming a few songs. We were really happy with the results. You'll find them on our facebook page."
+  
+- number: 2
   title: "Ryshworth Club"
   photo: "ryshworth-20161210.jpg"
   when: "December 2016"
   what: "French Refugee Fundraiser"
   description: "Complete with special guest bassist, Chris Gates, we played at a fundraiser following on from our Calais and Clowns Without Borders events earlier in the year. This time the funds raised went to provide sleeping bags for those sleeping on the streets of Calais."
-  
-- number: 2
-  title: "Caroline Street Social Club"
-  photo: "shipley-20160701.png"
-  when: "July 2016"
-  what: "Clowns Without Borders"
-  description: "Following on from our Calais Fundraiser earlier in the year, we felt it was important to raise more money to help send Clowns Without Borders to the refugee camps in France. There, they work hard to distract those in the camps from the appalling conditions around them."
 
