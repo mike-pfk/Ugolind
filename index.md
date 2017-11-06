@@ -74,12 +74,22 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="All Inc Halloween Party">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="The Acorn, Eldwick">
 					</div>
-					<h3>All Inc Halloween Party</h3>
-					<h4>Thursday 26th October 2017</h4>
-					<p>Caroline St Club, Saltaire</p>
+					<h3>The Acorn</h3>
+					<h4>Saturday 2nd December 2017</h4>
+					<p>Eldwick</p>
 				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Privateparty.png" alt="Private party" />
+					</div>
+					<h3>Salts Sports Bar</h3>
+					<h4>Saturday 9th December 2017</h4>
+					<p>Saltaire</p>
+				</div> 
 			</div>
 			<div class="span4">
 				<div class="centered service">
@@ -89,22 +99,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h3>Your Party?</h3>
 					<h4>Give Mike a Call</h4>
 					<p>07956 404 017</p>
-				</div> 
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="The Acorn, Eldwick">
-					</div>
-					<h3>The Acorn</h3>
-					<h4>Saturday 2nd December 2017</h4>
-					<p>Eldwick</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 26th October 2017** - All Inc Halloween Party  
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
 **Saturday 9th December 2017** - Birthday Party, Saltaire  
 **Friday 15th December 2017** - People First Christmas Party  
@@ -115,7 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**October 2017** - Highfield, Idle  
+**October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
 **June 2017** - Ilkley Tennis Club  
