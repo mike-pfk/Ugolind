@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/private-party.png" alt="Private party" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Privateparty.png" alt="Private party" />
 					</div>
 					<h3>Salts Sports Bar</h3>
 					<h4>Saturday 9th December 2017</h4>
@@ -94,7 +94,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/available-for-gigs.png" alt="Contact Us" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Availableforbookings.png" alt="Contact Us" />
 					</div>
 					<h3>Your Party?</h3>
 					<h4>Give Mike a Call</h4>
