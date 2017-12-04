@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="The Acorn, Eldwick">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/SaltsSportsBar.jpeg" alt="Salts Sports Bar">
 					</div>
-					<h3>The Acorn</h3>
-					<h4>Saturday 2nd December 2017</h4>
-					<p>Eldwick</p>
+					<h3>Private Party</h3>
+					<h4>Saturday 9th December 2017</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Privateparty.png" alt="Private party" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Salts Sports Bar</h3>
-					<h4>Saturday 9th December 2017</h4>
-					<p>Saltaire</p>
+					<h3>Utley Rugby Club</h3>
+					<h4>Friday 15th December 2017</h4>
+					<p>Keighley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -114,6 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
+**December 2017** - The Acorn, Eldwick  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
@@ -122,7 +123,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **February 2017** - The Acorn, Eldwick **&amp;** All Inc. Valentines Ball  
 **January 2017** - People First New Years Party **&amp;** New Inn, Eccleshill  
 **December 2016** - Ryshworth Club Fundraising Evening  
-**November 2016** - Caths 'Big Birthday' Bash  
 
 </div>
 			
