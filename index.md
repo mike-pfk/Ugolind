@@ -74,7 +74,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/SaltsSportsBar.jpeg" alt="Salts Sports Bar">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/SaltsSportsBar.jpg" alt="Salts Sports Bar">
 					</div>
 					<h3>Private Party</h3>
 					<h4>Saturday 9th December 2017</h4>
@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
 					<h3>Utley Rugby Club</h3>
 					<h4>Friday 15th December 2017</h4>
