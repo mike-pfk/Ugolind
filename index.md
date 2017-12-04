@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 2nd December 2017** - The Acorn, Eldwick  
 **Saturday 9th December 2017** - Birthday Party, Saltaire  
 **Friday 15th December 2017** - People First Christmas Party  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
