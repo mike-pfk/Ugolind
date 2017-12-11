@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/SaltsSportsBar.jpg" alt="Salts Sports Bar">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First">
 					</div>
-					<h3>Private Party</h3>
-					<h4>Saturday 9th December 2017</h4>
-					<p>Saltaire</p>
+					<h3>Utley Rugby Club</h3>
+					<h4>Friday 15th December 2017</h4>
+					<p>Keighley</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
 					</div>
-					<h3>Utley Rugby Club</h3>
-					<h4>Friday 15th December 2017</h4>
-					<p>Keighley</p>
+					<h3>Private Party</h3>
+					<h4>Saturday 6th January 2018</h4>
+					<p>Crossflatts</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,16 +104,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 9th December 2017** - Birthday Party, Saltaire  
 **Friday 15th December 2017** - People First Christmas Party  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
 **Thursday 15th February 2018** - Caroline St Club, Saltaire  
 **Saturday 3rd March 2018** - The Woodman, Bradford  
+**Saturday 9th June 2018** - The Acorn, Eldwick  
 
 ### Recent Gigs
 
-**December 2017** - The Acorn, Eldwick  
+**December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
@@ -121,7 +121,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **April 2017** - The New Inn, Wilsden  
 **February 2017** - The Acorn, Eldwick **&amp;** All Inc. Valentines Ball  
 **January 2017** - People First New Years Party **&amp;** New Inn, Eccleshill  
-**December 2016** - Ryshworth Club Fundraising Evening  
 
 </div>
 			
