@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club">
 					</div>
-					<h3>Utley Rugby Club</h3>
-					<h4>Friday 15th December 2017</h4>
-					<p>Keighley</p>
+					<h3>Private Party</h3>
+					<h4>Saturday 6th January 2018</h4>
+					<p>Crossflatts</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
-					<h3>Private Party</h3>
-					<h4>Saturday 6th January 2018</h4>
-					<p>Crossflatts</p>
+					<h3>New Inn</h3>
+					<h4>Saturday 3rd February 2018</h4>
+					<p>Wilsden</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Friday 15th December 2017** - People First Christmas Party  
 **Saturday 6th January 2018** - Birthday Party, Crossflatts  
 **Saturday 3rd February 2018** - New Inn, Wilsden  
 **Thursday 15th February 2018** - Caroline St Club, Saltaire  
@@ -113,7 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar  
+**December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
