@@ -20,7 +20,7 @@ layout: default
 				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/members/members-2017.png" alt="Band Members" width="320">
+					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
@@ -31,7 +31,7 @@ layout: default
 				<p>The Beatles, Eurythmics, OMD, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/bands.png" width="320" alt="Band Photo">
+					<img src="{{ site.baseurl }}/assets/images/Band pic5.jpg" width="320" alt="Band Photo 5">
 				</div>
 			</div>
 			<!-- End second slide -->
@@ -43,7 +43,7 @@ layout: default
 gigs to check us out, and/or contact us to check our availability.</p>
 				<a href="#contact" class="da-link button">Contact us</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/book-us.png" width="320" alt="Book Us">
+					<img src="{{ site.baseurl }}/assets/images/Band pic3.jpg" width="320" alt="Band photo 3">
 				</div>
 			</div>
 			<!-- End third slide -->
