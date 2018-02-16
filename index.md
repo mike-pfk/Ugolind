@@ -16,7 +16,7 @@ layout: default
 			<!-- Start first slide -->
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
-				<h4>Classic Rock &amp; Pop Covers</h4>
+				<h4>Classic Covers</h4>
 				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
@@ -26,7 +26,7 @@ layout: default
 			<!-- End first slide -->
 			<!-- Start second slide -->
 			<div class="da-slide">
-			<h2>Classic Rock and Pop:</h2>
+			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
 				<p>The Beatles, Eurythmics, OMD, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
@@ -37,8 +37,8 @@ layout: default
 			<!-- End second slide -->
 			<!-- Start third slide -->
 			<div class="da-slide">
-				<h2>Book Us!</h2>
-				<h4>Event, Function, Venue?</h4>
+				<h2>Playing For Kicks</h2>
+				<h4>Book us!</h4>
 				<p>Looking for a band for an event, function or your music venue? Come along to one of our
 gigs to check us out, and/or contact us to check our availability.</p>
 				<a href="#contact" class="da-link button">Contact us</a>
