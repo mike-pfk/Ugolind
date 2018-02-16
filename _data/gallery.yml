@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
+  title: "Caroline St Club"
+  photo: "Valentine 2018.jpg"
+  when: "February 2018"
+  what: "Valentine Ball"
+  description: "It's always a lot of fun to play at an All Inc party. reat people and a fantastic space!"
+
+- number: 1
   title: "The Highfield"
   photo: "Highfield 8.jpg"
   when: "October 2017"
   what: "Our first visit to The Highfield"
   description: "We squeezed onto the stage and played a couple of sets for a few of our friends and the regulars. The newer songs are settling in well."
-
-- number: 1
+  
+- number: 2
   title: "Recording Session"
   photo: "Recording1.jpg"
   when: "July 2017"
   what: "Recording at Prospect Studios"
   description: "We spent a great session at Prospect recording and filming a few songs. We were really happy with the results. You'll find them on our facebook page."
-  
-- number: 2
-  title: "Ryshworth Club"
-  photo: "ryshworth-20161210.jpg"
-  when: "December 2016"
-  what: "French Refugee Fundraiser"
-  description: "Complete with special guest bassist, Chris Gates, we played at a fundraiser following on from our Calais and Clowns Without Borders events earlier in the year. This time the funds raised went to provide sleeping bags for those sleeping on the streets of Calais."
 
