@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline Street">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman">
 					</div>
-					<h3>Private Party</h3>
-					<h4>Thursday 15th February 2018</h4>
-					<p>Saltaire</p>
+					<h3>Woodman</h3>
+					<h4>Saturday 3rd March 2018</h4>
+					<p>Bradford</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
 					</div>
-					<h3>Woodman</h3>
-					<h4>Saturday 3rd March 2018</h4>
-					<p>Bradford</p>
+					<h3>Malt Shovel</h3>
+					<h4>Saturday 24th March 2018</h4>
+					<p>Drighlington</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,14 +104,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 15th February 2018** - Caroline St Club, Saltaire  
 **Saturday 3rd March 2018** - The Woodman, Bradford  
 **Saturday 24th March 2018** - Malt Shovel, Drighlington  
 **Saturday 9th June 2018** - The Acorn, Eldwick  
+**Thursday 28th June 2018** - Caroline St Club, Saltaire  
+**Thursday 25th October 2018** - Caroline St Club, Saltaire  
+**Thursday 14th December 2018** - Utley Rugby Club  
 
 ### Recent Gigs
 
-**February 2018** - New Inn, Wilsden  
+**February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
