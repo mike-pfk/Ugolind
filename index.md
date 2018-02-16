@@ -31,7 +31,7 @@ layout: default
 				<p>The Beatles, Eurythmics, OMD, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic5.jpg" width="320" alt="Band Photo 5">
+					<img src="{{ site.baseurl }}/assets/images/Band pic8.jpg" width="320" alt="Band Photo 5">
 				</div>
 			</div>
 			<!-- End second slide -->
