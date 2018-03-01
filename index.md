@@ -109,7 +109,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
-**Thursday 14th December 2018** - Utley Rugby Club  
+**Friday 14th December 2018** - Utley Rugby Club  
 
 ### Recent Gigs
 
