@@ -77,7 +77,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman">
 					</div>
 					<h3>Woodman</h3>
-					<h4>Saturday 3rd March 2018</h4>
+					<h4>Saturday 10th March 2018</h4>
 					<p>Bradford</p>
 				</div>
 			</div>
@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 3rd March 2018** - The Woodman, Bradford  
+**Saturday 10th March 2018** - The Woodman, Bradford  
 **Saturday 24th March 2018** - Malt Shovel, Drighlington  
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
