@@ -104,8 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 10th March 2018** - The Woodman, Bradford  
-**Saturday 24th March 2018** - Malt Shovel, Drighlington  
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
@@ -115,7 +113,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington
+**March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
