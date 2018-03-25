@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="Acorn">
 					</div>
-					<h3>Woodman</h3>
-					<h4>Saturday 10th March 2018</h4>
-					<p>Bradford</p>
+					<h3>Acorn</h3>
+					<h4>Saturday 9th June 2018</h4>
+					<p>Eldwick</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
-					<h3>Malt Shovel</h3>
-					<h4>Saturday 24th March 2018</h4>
-					<p>Drighlington</p>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 28th June 2018</h4>
+					<p>Saltaire</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -108,12 +108,14 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 24th March 2018** - Malt Shovel, Drighlington  
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
+**Saturday 8th September 2018** - Malt Shovel, Drighlington  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
 **Friday 14th December 2018** - Utley Rugby Club  
 
 ### Recent Gigs
 
+**March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
