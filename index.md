@@ -17,7 +17,7 @@ layout: default
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
 				<h4>Classic Covers</h4>
-				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Stereophonics. There's something for everyone and you're sure to have a great night.</p>
+				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>The Beatles, Eurythmics, OMD, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
+				<p>The Beatles, Eurythmics, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic8.jpg" width="320" alt="Band Photo 5">
@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
+**Saturday 18th August** - The Woodman, Wibsey  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
