@@ -106,6 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
+**Saturday 4th August** - New Inn, Wilsden  
 **Saturday 18th August** - The Woodman, Wibsey  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
