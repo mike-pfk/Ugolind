@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="Acorn">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club">
 					</div>
-					<h3>Acorn</h3>
-					<h4>Saturday 9th June 2018</h4>
-					<p>Eldwick</p>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 28th June 2018</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 28th June 2018</h4>
-					<p>Saltaire</p>
+					<h3>New Inn</h3>
+					<h4>Saturday 4th August 2018</h4>
+					<p>Wilsden</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 9th June 2018** - The Acorn, Eldwick  
 **Thursday 28th June 2018** - Caroline St Club, Saltaire  
 **Saturday 4th August** - New Inn, Wilsden  
 **Saturday 18th August** - The Woodman, Wibsey  
@@ -116,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
+**June 2018** - The Acorn, Eldwick  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
@@ -123,8 +123,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
 **July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
-**June 2017** - Ilkley Tennis Club  
-**April 2017** - The New Inn, Wilsden  
 
 </div>
 			
