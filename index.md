@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn">
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 28th June 2018</h4>
-					<p>Saltaire</p>
+					<h3>New Inn</h3>
+					<h4>Saturday 4th August 2018</h4>
+					<p>Wilsden</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman" />
 					</div>
-					<h3>New Inn</h3>
-					<h4>Saturday 4th August 2018</h4>
-					<p>Wilsden</p>
+					<h3>Woodman</h3>
+					<h4>Saturday 18th August 2018</h4>
+					<p>Wibsey</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 28th June 2018** - Caroline St Club, Saltaire  
 **Saturday 4th August** - New Inn, Wilsden  
 **Saturday 18th August** - The Woodman, Wibsey  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
@@ -115,7 +114,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**June 2018** - The Acorn, Eldwick  
+**June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
