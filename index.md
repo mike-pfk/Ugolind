@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 4th August** - New Inn, Wilsden  
 **Saturday 18th August** - The Woodman, Wibsey  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
+**Saturday 13th October 2018** - Bradley Wood, Brighouse  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
