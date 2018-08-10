@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman">
 					</div>
-					<h3>New Inn</h3>
-					<h4>Saturday 4th August 2018</h4>
-					<p>Wilsden</p>
+					<h3>Woodman</h3>
+					<h4>Saturday 18th August 2018</h4>
+					<p>Wibsey</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="Woodman" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
 					</div>
-					<h3>Woodman</h3>
-					<h4>Saturday 18th August 2018</h4>
-					<p>Wibsey</p>
+					<h3>Malt Shovel</h3>
+					<h4>Saturday 8th September 2018</h4>
+					<p>Drighlington</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 4th August** - New Inn, Wilsden  
 **Saturday 18th August** - The Woodman, Wibsey  
 **Saturday 8th September 2018** - Malt Shovel, Drighlington  
 **Saturday 13th October 2018** - Bradley Wood, Brighouse  
@@ -112,9 +111,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
 **Friday 14th December 2018** - Utley Rugby Club  
+**Saturday 16th March 2019** - The New Inn, Wilsden (tbc)  
 
 ### Recent Gigs
 
+**August 2018** - The New Inn, Wilsden  
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
@@ -122,7 +123,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 **September 2017** - The Woodman, Bradford  
-**July 2017** - Otley Courthouse **&amp;** The New Inn, Eccleshill  
 
 </div>
 			
