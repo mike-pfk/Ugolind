@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Wood" />
 					</div>
-					<h3>Malt Shovel</h3>
-					<h4>Saturday 8th September 2018</h4>
-					<p>Drighlington</p>
+					<h3>Bradley Wood</h3>
+					<h4>Saturday 13th October 2018</h4>
+					<p>Brighouse</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,7 +105,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **Saturday 18th August** - The Woodman, Wibsey  
-**Saturday 8th September 2018** - Malt Shovel, Drighlington  
 **Saturday 13th October 2018** - Bradley Wood, Brighouse  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
