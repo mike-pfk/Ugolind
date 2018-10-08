@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>The Beatles, Eurythmics, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags and many more...</p>
+				<p>The Beatles, Status Quo, The Cure, The Commodores, Steve Harley, Hall & Oates, The Jam, Chuck Berry, Madness, Aztec Camera, The Jags, Blondie and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic8.jpg" width="320" alt="Band Photo 5">
