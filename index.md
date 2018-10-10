@@ -112,7 +112,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Thursday 14th February 2019** - Caroline St Club, Saltaire  
 **Saturday 16th March 2019** - The New Inn, Wilsden (tbc)  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
-**Thursday 31st October 2018** - Caroline St Club, Saltaire  
+**Thursday 31st October 2019** - Caroline St Club, Saltaire  
+**Friday 13th December 2019** - Utley Rugby Club  
 
 ### Recent Gigs
 
@@ -123,7 +124,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **January 2018** - Ryshworth Club, Crossflatts  
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
 **October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
-**September 2017** - The Woodman, Bradford  
 
 </div>
 			
