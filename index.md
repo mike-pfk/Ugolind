@@ -109,7 +109,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
 **Friday 14th December 2018** - Utley Rugby Club  
+**Thursday 14th February 2019** - Caroline St Club, Saltaire  
 **Saturday 16th March 2019** - The New Inn, Wilsden (tbc)  
+**Thursday 27th June 2019** - Caroline St Club, Saltaire  
+**Thursday 31st October 2018** - Caroline St Club, Saltaire  
 
 ### Recent Gigs
 
