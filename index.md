@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Wood">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline Street Club">
 					</div>
-					<h3>Bradley Wood</h3>
-					<h4>Saturday 13th October 2018</h4>
-					<p>Brighouse</p>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 25th October 2018</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -86,9 +86,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline Street Club" />
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 25th October 2018</h4>
-					<p>Saltaire</p>
+					<h3>Oakwood Hall</h3>
+					<h4>Saturday 27th October 2018</h4>
+					<p>Bingley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 13th October 2018** - Bradley Wood, Brighouse  
 **Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
@@ -117,6 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
+**October 2018** - Bradley Wods, Brighouse  
 **August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
