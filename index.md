@@ -116,7 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**October 2018** - Bradley Wods, Brighouse  
+**October 2018** - Bradley Woods, Brighouse  
 **August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
