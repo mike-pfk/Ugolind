@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline Street Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Oakwood Hall.jpg" alt="Oakwood Hall" />
 					</div>
 					<h3>Oakwood Hall</h3>
 					<h4>Saturday 27th October 2018</h4>
