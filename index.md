@@ -110,6 +110,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Friday 14th December 2018** - Utley Rugby Club  
 **Thursday 14th February 2019** - Caroline St Club, Saltaire  
 **Saturday 16th March 2019** - The New Inn, Wilsden (tbc)  
+**Saturday 22th June 2019** - Wakefield Sports Club  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
