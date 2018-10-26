@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline Street Club">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Oakwood Hall.jpg" alt="Oakwood Hall">
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 25th October 2018</h4>
-					<p>Saltaire</p>
+					<h3>Oakwood Hall</h3>
+					<h4>Saturday 27th October 2018</h4>
+					<p>Bingley</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Oakwood Hall.jpg" alt="Oakwood Hall" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
 					</div>
-					<h3>Oakwood Hall</h3>
-					<h4>Saturday 27th October 2018</h4>
-					<p>Bingley</p>
+					<h3>Ryshworth Club</h3>
+					<h4>Saturday 1st December 2018</h4>
+					<p>Crossflatts</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -98,13 +98,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					</div>
 					<h3>Your Party?</h3>
 					<h4>Give Mike a Call</h4>
-					<p>07956 404 017</p>
+					<p>07956 404017</p>
 				</div>
 			</div>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 25th October 2018** - Caroline St Club, Saltaire  
 **Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
 **Friday 14th December 2018** - Utley Rugby Club  
@@ -118,14 +117,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**October 2018** - Bradley Woods, Brighouse  
+**October 2018** - Bradley Woods, Brighouse **&amp;** Caroline St Club, Saltaire    
 **August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
 **January 2018** - Ryshworth Club, Crossflatts  
 **December 2017** - The Acorn, Eldwick **&amp;** Salts Sports Bar **&amp;** Utley Rugby Club  
-**October 2017** - Highfield, Idle **&amp;** All Inc. Halloween Party  
 
 </div>
 			
