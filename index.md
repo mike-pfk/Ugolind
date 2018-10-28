@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Oakwood Hall.jpg" alt="Oakwood Hall">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club">
 					</div>
-					<h3>Oakwood Hall</h3>
-					<h4>Saturday 27th October 2018</h4>
-					<p>Bingley</p>
+					<h3>Ryshworth Club</h3>
+					<h4>Saturday 1st December 2018</h4>
+					<p>Crossflatts</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/RyshworthClub.jpg" alt="Ryshworth Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Ryshworth Club</h3>
-					<h4>Saturday 1st December 2018</h4>
-					<p>Crossflatts</p>
+					<h3>Utley Rugby Club</h3>
+					<h4>Friday 14th December 2018</h4>
+					<p>Keighley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 27th October 2018** - Oakwood Hall, Bingley  
 **Saturday 1st December 2018** - Ryshworth Club, Crossflatts  
 **Friday 14th December 2018** - Utley Rugby Club  
 **Saturday 2nd February 2019** - The Woodman, Wibsey  
@@ -117,7 +116,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 ### Recent Gigs
 
-**October 2018** - Bradley Woods, Brighouse **&amp;** Caroline St Club, Saltaire    
+**October 2018** - Bradley Woods, Brighouse **&amp;** Caroline St Club, Saltaire **&amp;** Oakwood Hall, Bingley    
 **August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
