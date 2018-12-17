@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
+  title: "Utley Rugby Club"
+  photo: "Utley club.jpg"
+  when: "December 2018"
+  what: "Winter Ball"
+  description: "Another very warm welcome from People First. One of our longest standing gigs, we always have a great time. Jonathan even got dressed up for it!"
+
+- number: 1
+  title: "Grim up North"
+  photo: "Grim2018.jpg"
+  when: "October 2018"
+  what: "Grim's back!"
+  description: "After a few years break, the scouting leaders at Brighouse brought Grim back. It's a huge space, with some great dancing and some surpising costumes!"
+  
+- number: 2
   title: "Caroline St Club"
   photo: "Valentine 2018.jpg"
   when: "February 2018"
   what: "Valentine Ball"
   description: "It's always a lot of fun to play at an All Inc party. Great people and a fantastic space! Caroline St Club enlarged the stage in 2017, and now it's enormous!"
-
-- number: 1
-  title: "The Highfield"
-  photo: "Highfield 8.jpg"
-  when: "October 2017"
-  what: "Our first visit to The Highfield"
-  description: "We squeezed onto the stage and played a couple of sets for a few of our friends and the regulars. The newer songs are settling in well."
-  
-- number: 2
-  title: "Recording Session"
-  photo: "Recording1.jpg"
-  when: "July 2017"
-  what: "Recording at Prospect Studios"
-  description: "We spent a great session at Prospect recording and filming a few songs. We were really happy with the results. You'll find them on our facebook page."
 
