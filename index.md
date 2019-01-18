@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 2nd February 2019** - The Woodman, Wibsey  
 **Thursday 14th February 2019** - Caroline St Club, Saltaire  
-**Saturday 16th March 2019** - The New Inn, Wilsden (tbc)  
+**Saturday 6th April 2019** - The New Inn, Wilsden  
 **Saturday 22th June 2019** - Wakefield Sports Club  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 19th October 2019** - Ilkley Tennis Club  
