@@ -106,9 +106,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Saturday 2nd February 2019** - The Woodman, Wibsey  
 **Thursday 14th February 2019** - Caroline St Club, Saltaire  
+**Saturday 30th March 2019** - The Goat's Head, Steeton  
 **Saturday 6th April 2019** - The New Inn, Wilsden  
-**Saturday 22th June 2019** - Wakefield Sports Club  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
+**Saturday 6th July 2019** - Town Hall, Hebden Bridge  
+**Saturday 12th October 2019** - Bradley Wood, Brighouse  
 **Saturday 19th October 2019** - Ilkley Tennis Club  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
@@ -120,7 +122,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
 **March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 **February 2018** - New Inn, Wilsden **&amp;** Caroline St Club, Saltaire  
-**January 2018** - Ryshworth Club, Crossflatts  
 
 </div>
 			
