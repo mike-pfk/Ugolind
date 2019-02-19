@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/GoatsHead.jpg" alt="Goats Head">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn">
 					</div>
-					<h3>The Goats Head</h3>
-					<h4>Saturday 30th March 2019</h4>
-					<p>Steeton</p>
+					<h3>The New Inn</h3>
+					<h4>Saturday 6th April 2019</h4>
+					<p>Wilsden</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="New Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St" />
 					</div>
-					<h3>The New Inn</h3>
-					<h4>Saturday 6th April 2019</h4>
-					<p>Wilsden</p>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 27th June 2019</h4>
+					<p>Saltaire</p>
 				</div> 
 			</div>
 			<div class="span4">
