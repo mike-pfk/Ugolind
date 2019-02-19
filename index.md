@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 30th March 2019** - The Goat's Head, Steeton  
 **Saturday 6th April 2019** - The New Inn, Wilsden  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 6th July 2019** - Town Hall, Hebden Bridge  
