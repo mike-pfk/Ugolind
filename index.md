@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 6th April 2019** - The New Inn, Wilsden  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 6th July 2019** - Town Hall, Hebden Bridge  
+**Saturday 17th August 2019** - The Woodman, Wibsey  
 **Saturday 12th October 2019** - Bradley Wood, Brighouse  
 **Saturday 19th October 2019** - Ilkley Tennis Club  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
