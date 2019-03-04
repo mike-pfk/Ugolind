@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Cricketers.jpg" alt="Cricketers" />
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 27th June 2019</h4>
-					<p>Saltaire</p>
+					<h3>Cricketers</h3>
+					<h4>Saturday 15th June 2019</h4>
+					<p>Keighley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -105,6 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **Saturday 6th April 2019** - The New Inn, Wilsden  
+**Saturday 15th June 2019** - The Cricketers Arms, Keighley  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 6th July 2019** - Town Hall, Hebden Bridge  
 **Saturday 17th August 2019** - The Woodman, Wibsey  
