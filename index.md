@@ -108,6 +108,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 6th July 2019** - Town Hall, Hebden Bridge  
 **Saturday 17th August 2019** - The Woodman, Wibsey  
+**Saturday 7th September 2019** - Malt Shovel, Drighlington  
 **Saturday 12th October 2019** - Bradley Wood, Brighouse  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
