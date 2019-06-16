@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Cricketers.jpg" alt="Cricketers">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St">
 					</div>
-					<h3>Cricketers</h3>
-					<h4>Saturday 15th June 2019</h4>
-					<p>Keighley</p>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 27th June 2019</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/townhallhebdenbridge.jpg" alt="Hebden Bridge Town Hall" />
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 27th June 2019</h4>
-					<p>Saltaire</p>
+					<h3>Town Hall</h3>
+					<h4>Saturday 6th July 2019</h4>
+					<p>Hebden Bridge</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 15th June 2019** - The Cricketers Arms, Keighley  
 **Thursday 27th June 2019** - Caroline St Club, Saltaire  
 **Saturday 6th July 2019** - Town Hall, Hebden Bridge  
 **Saturday 17th August 2019** - The Woodman, Wibsey  
@@ -115,13 +114,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Friday 13th December 2019** - Utley Rugby Club  
 
 ### Recent Gigs
+**June 2019** - The Cricketers Arms, Keighley  
 **April 2019** - The New Inn, Wilsden  
 **February 2019** - The Woodman, Wibsey **&amp;** Caroline St Club, Saltaire  
 **December 2018** - Ryshworth Club, Crossflatts **&amp;** Utley Rugby Club  
 **October 2018** - Bradley Woods, Brighouse **&amp;** Caroline St Club, Saltaire **&amp;** Oakwood Hall, Bingley    
 **August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
-**June 2018** - The Acorn, Eldwick **&amp;** Caroline St Club, Saltaire  
-**March 2018** - The Woodman, Wibsey **&amp;** Malt Shovel, Drighlington  
 
 </div>
 			
