@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Woodman.png" alt="The Woodman">
 					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 27th June 2019</h4>
-					<p>Saltaire</p>
+					<h3>Woodman</h3>
+					<h4>Saturday 17th August 2019</h4>
+					<p>Wibsey</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/townhallhebdenbridge.jpg" alt="Hebden Bridge Town Hall" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
 					</div>
-					<h3>Town Hall</h3>
-					<h4>Saturday 6th July 2019</h4>
-					<p>Hebden Bridge</p>
+					<h3>Malt Shovel</h3>
+					<h4>Saturday 7th September 2019</h4>
+					<p>Drighlington</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,8 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 27th June 2019** - Caroline St Club, Saltaire  
-**Saturday 6th July 2019** - Town Hall, Hebden Bridge  
 **Saturday 17th August 2019** - The Woodman, Wibsey  
 **Saturday 7th September 2019** - Malt Shovel, Drighlington  
 **Saturday 12th October 2019** - Bradley Wood, Brighouse  
@@ -114,7 +112,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Friday 13th December 2019** - Utley Rugby Club  
 
 ### Recent Gigs
-**June 2019** - The Cricketers Arms, Keighley  
+**July 2019** - Town Hall, Hebden Bridge  
+**June 2019** - The Cricketers Arms, Keighley **&amp;** Caroline St Club, Saltaire  
 **April 2019** - The New Inn, Wilsden  
 **February 2019** - The Woodman, Wibsey **&amp;** Caroline St Club, Saltaire  
 **December 2018** - Ryshworth Club, Crossflatts **&amp;** Utley Rugby Club  
