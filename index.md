@@ -111,6 +111,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 19th October 2019** - Salt Cellar, Saltaire  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
+**Saturday 3rd October 2020** - Groovey Happening, Haworth  
 
 ### Recent Gigs
 **July 2019** - Town Hall, Hebden Bridge  
