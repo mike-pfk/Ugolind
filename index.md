@@ -121,7 +121,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **February 2019** - The Woodman, Wibsey **&amp;** Caroline St Club, Saltaire  
 **December 2018** - Ryshworth Club, Crossflatts **&amp;** Utley Rugby Club  
 **October 2018** - Bradley Woods, Brighouse **&amp;** Caroline St Club, Saltaire **&amp;** Oakwood Hall, Bingley    
-**August 2018** - The New Inn, Wilsden **&amp;** The Woodman, Wibsey    
 
 </div>
 			
