@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Malt Shovel.jpg" alt="Malt Shovel" />
-					</div>
-					<h3>Malt Shovel</h3>
-					<h4>Saturday 7th September 2019</h4>
-					<p>Drighlington</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Pride.jpg" alt="Keighley Pride" />
 					</div>
 					<h3>Central Hall</h3>
 					<h4>Saturday 14th September 2019</h4>
 					<p>Keighley Pride</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Bradley-woods.jpg" alt="Bradley Wood" />
+					</div>
+					<h3>Bradley Wood</h3>
+					<h4>Saturday 12th October 2019</h4>
+					<p>Brighouse</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 7th September 2019** - Malt Shovel, Drighlington  
 **Saturday 14th September 2019** - Keighley Pride  
 **Saturday 12th October 2019** - Bradley Wood, Brighouse  
 **Saturday 19th October 2019** - Salt Cellar, Saltaire  
