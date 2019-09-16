@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
+  title: "Central Hall, Keighley"
+  photo: "Pride2019.jpg"
+  when: "September 2019"
+  what: "Keighley Pride"
+  description: "We were proud to play at the first ever Keighley Pride. We had a great day and finished the afternoon off in our usual style!"
+
+- number: 1
   title: "Utley Rugby Club"
   photo: "Utley club.jpg"
   when: "December 2018"
   what: "Winter Ball"
   description: "Another very warm welcome from People First. One of our longest standing gigs, we always have a great time. Jonathan even got dressed up for it!"
-
-- number: 1
+  
+- number: 2
   title: "Grim up North"
   photo: "Grim2018.jpg"
   when: "October 2018"
   what: "Grim's back!"
   description: "After a few years break, the scouting leaders at Brighouse brought Grim back. It's a huge space, with some great dancing and some surpising costumes!"
-  
-- number: 2
-  title: "Caroline St Club"
-  photo: "Valentine 2018.jpg"
-  when: "February 2018"
-  what: "Valentine Ball"
-  description: "It's always a lot of fun to play at an All Inc party. Great people and a fantastic space! Caroline St Club enlarged the stage in 2017, and now it's enormous!"
 
