@@ -109,6 +109,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
+**Saturday 22nd February 2020** - Shipley Sports and Social Club, Shipley  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 
 ### Recent Gigs
