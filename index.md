@@ -74,20 +74,20 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/bradley-woods.jpg" alt="Bradley Wood" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Salt-Cellar.jpg" alt="Salt Cellar" />
 					</div>
-					<h3>Bradley Wood</h3>
-					<h4>Saturday 12th October 2019</h4>
-					<p>Brighouse</p>
+					<h3>Salt Cellar</h3>
+					<h4>Saturday 19th October 2019</h4>
+					<p>Saltaire</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Salt-Cellar.jpg" alt="Salt Cellar" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
-					<h3>Salt Cellar</h3>
-					<h4>Saturday 19th October 2019</h4>
+					<h3>Caroline St Club</h3>
+					<h4>Thursday 31st October 2019</h4>
 					<p>Saltaire</p>
 				</div> 
 			</div>
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 12th October 2019** - Bradley Wood, Brighouse  
 **Saturday 19th October 2019** - Salt Cellar, Saltaire  
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Friday 13th December 2019** - Utley Rugby Club  
@@ -113,6 +112,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 
 ### Recent Gigs
+**October 2019** - Bradley Woods, Brighouse      
 **September 2019** - Central Hall, Keighley    
 **August 2019** - The Woodman, Wibsey    
 **July 2019** - Town Hall, Hebden Bridge  
