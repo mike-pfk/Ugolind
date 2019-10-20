@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/people-first.jpg" alt="Utley Rugby Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/peoplefirst.jpg" alt="Utley Rugby Club" />
 					</div>
 					<h3>Utley Rugby Club</h3>
 					<h4>Friday 13th December 2019</h4>
