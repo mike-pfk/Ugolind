@@ -105,6 +105,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div style="text-align: center;" markdown="1">
 
 **Thursday 31st October 2019** - Caroline St Club, Saltaire  
+**Saturday 23rd November 2019** - Kirkgate Centre, Shipley  
 **Friday 13th December 2019** - Utley Rugby Club  
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
 **Saturday 22nd February 2020** - Shipley Sports and Social Club, Shipley  
