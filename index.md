@@ -84,11 +84,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="Utley Rugby Club" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Kirkgate.jpg" alt="Kirkgate Centre" />
 					</div>
-					<h3>Utley Rugby Club</h3>
-					<h4>Friday 13th December 2019</h4>
-					<p>Utley</p>
+					<h3>Kirkgate Centre</h3>
+					<h4>Saturday 23rd November 2019</h4>
+					<p>Shipley</p>
 				</div> 
 			</div>
 			<div class="span4">
