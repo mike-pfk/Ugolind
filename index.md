@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
-					</div>
-					<h3>Caroline St Club</h3>
-					<h4>Thursday 31st October 2019</h4>
-					<p>Saltaire</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Kirkgate.jpg" alt="Kirkgate Centre" />
 					</div>
 					<h3>Kirkgate Centre</h3>
 					<h4>Saturday 23rd November 2019</h4>
 					<p>Shipley</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+					</div>
+					<h3>People First Xmas Party</h3>
+					<h4>Friday 13th December 2019</h4>
+					<p>Utley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 31st October 2019** - Caroline St Club, Saltaire  
 **Saturday 23rd November 2019** - Kirkgate Centre, Shipley  
 **Friday 13th December 2019** - Utley Rugby Club  
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
@@ -112,7 +111,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 
 ### Recent Gigs
-**October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire      
+**October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
 **September 2019** - Central Hall, Keighley    
 **August 2019** - The Woodman, Wibsey    
 **July 2019** - Town Hall, Hebden Bridge  
