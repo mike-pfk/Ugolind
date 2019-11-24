@@ -74,20 +74,20 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/Kirkgate.jpg" alt="Kirkgate Centre" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
 					</div>
-					<h3>Kirkgate Centre</h3>
-					<h4>Saturday 23rd November 2019</h4>
-					<p>Shipley</p>
+					<h3>People First Xmas Party</h3>
+					<h4>Friday 13th December 2019</h4>
+					<p>Utley</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
-					<h3>People First Xmas Party</h3>
-					<h4>Friday 13th December 2019</h4>
+					<h3>Valentine Party</h3>
+					<h4>Thursday 13th February 2020</h4>
 					<p>Utley</p>
 				</div> 
 			</div>
@@ -104,13 +104,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 23rd November 2019** - Kirkgate Centre, Shipley  
 **Friday 13th December 2019** - Utley Rugby Club  
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
 **Saturday 22nd February 2020** - Shipley Sports and Social Club, Shipley  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 
 ### Recent Gigs
+**November 2019** - Kirkgate Centre, Shipley    
 **October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
 **September 2019** - Central Hall, Keighley    
 **August 2019** - The Woodman, Wibsey    
