@@ -88,7 +88,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					</div>
 					<h3>Valentine Party</h3>
 					<h4>Thursday 13th February 2020</h4>
-					<p>Utley</p>
+					<p>Saltaire</p>
 				</div> 
 			</div>
 			<div class="span4">
