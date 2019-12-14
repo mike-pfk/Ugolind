@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/PeopleFirst.jpg" alt="People First" />
-					</div>
-					<h3>People First Xmas Party</h3>
-					<h4>Friday 13th December 2019</h4>
-					<p>Utley</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/caroline-street.jpg" alt="Caroline St Club" />
 					</div>
 					<h3>Valentine Party</h3>
 					<h4>Thursday 13th February 2020</h4>
 					<p>Saltaire</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/shipley-social.jpg" alt="Shipley Social Club" />
+					</div>
+					<h3>PFK 10th Anniversary</h3>
+					<h4>Saturday 22nd February 2020</h4>
+					<p>Shipley</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,12 +104,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Friday 13th December 2019** - Utley Rugby Club  
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
 **Saturday 22nd February 2020** - Shipley Sports and Social Club, Shipley  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 
 ### Recent Gigs
+**December 2019** - Utley Rugby Club  
 **November 2019** - Kirkgate Centre, Shipley    
 **October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
 **September 2019** - Central Hall, Keighley    
@@ -118,7 +118,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **June 2019** - The Cricketers Arms, Keighley **&amp;** Caroline St Club, Saltaire  
 **April 2019** - The New Inn, Wilsden  
 **February 2019** - The Woodman, Wibsey **&amp;** Caroline St Club, Saltaire  
-**December 2018** - Ryshworth Club, Crossflatts **&amp;** Utley Rugby Club  
 
 </div>
 			
