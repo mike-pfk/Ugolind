@@ -107,6 +107,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Thursday 13th February 2020** - Caroline St Club, Saltaire  
 **Saturday 22nd February 2020** - Shipley & District Social Club, (Saltaire Bar)  
 **Friday 6th March 2020** - Ossett Cricket & Athletic Club  
+**Saturday 18th April 2020** - Acorn Inn, Eldwick  
+**Saturday 6th June 2020** - New Inn, Wilsden  
 **Thursday 25th June 2020** - Caroline St Club, Saltaire  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 **Thursday 29th October 2020** - Caroline St Club, Saltaire  
