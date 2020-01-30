@@ -17,7 +17,7 @@ layout: default
 			<div class="da-slide">
 				<h2 class="fittext2">Playing For Kicks</h2>
 				<h4>Classic Covers</h4>
-				<p>Playing for Kicks play songs you know and love from the Beatles to Nena and Stealers Wheel to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
+				<p>Playing for Kicks play songs you know and love from the Cure to Nena and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
@@ -28,7 +28,7 @@ layout: default
 			<div class="da-slide">
 			<h2>Playing For Kicks</h2>
 				<h4>Songs For Everybody</h4>
-				<p>The Beatles, Status Quo, The Cure, The Commodores, Stevie Wonder, Hall & Oates, The Jam, Little Richard, Madness, Aztec Camera, The Jags, Blondie and many more...</p>
+				<p>ELO, The Commodores, Supergrass, Stevie Wonder, The Jam, Madness, Abba, The Jags, Blondie and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic8.jpg" width="320" alt="Band Photo 5">
