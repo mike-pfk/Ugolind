@@ -110,7 +110,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 6th June 2020** - New Inn, Wilsden  
 **Thursday 25th June 2020** - Caroline St Club, Saltaire  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
+**Saturday 10th October 2020** - Bradley Wood, Brighouse  
 **Thursday 29th October 2020** - Caroline St Club, Saltaire  
+**Friday 13rd November 2020** - TBC  
 **Saturday 19th December 2020** - TBC  
 
 ### Recent Gigs
