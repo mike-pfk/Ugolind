@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/OssettCricketClub.jpg" alt="Ossett Cricket Club" />
-					</div>
-					<h3>Cricket Club</h3>
-					<h4>Friday 6th March 2020</h4>
-					<p>Ossett</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BradfordHotel.jpg" alt="The Bradford Hotel" />
 					</div>
 					<h3>The Bradford Hotel</h3>
 					<h4>Thursday 19th March 2020</h4>
 					<p>Bradford</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpg" alt="The Acorn Inn" />
+					</div>
+					<h3>The Acorn Inn</h3>
+					<h4>Saturday 18th April 2020</h4>
+					<p>Eldwick</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Friday 6th March 2020** - Ossett Cricket & Athletic Club  
 **Thursday 19th March 2020** - The Bradford Hotel  
 **Saturday 18th April 2020** - Acorn Inn, Eldwick  
 **Saturday 6th June 2020** - New Inn, Wilsden  
@@ -116,6 +115,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Saturday 19th December 2020** - TBC  
 
 ### Recent Gigs
+**March** - Ossett Cricket & Athletic Club  
 **February 2019** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
 **December 2019** - Utley Rugby Club  
 **November 2019** - Kirkgate Centre, Shipley    
