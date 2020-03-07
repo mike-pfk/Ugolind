@@ -84,7 +84,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpg" alt="The Acorn Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorn-eldwick.jpeg" alt="The Acorn Inn" />
 					</div>
 					<h3>The Acorn Inn</h3>
 					<h4>Saturday 18th April 2020</h4>
