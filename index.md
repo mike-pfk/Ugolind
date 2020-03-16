@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/BradfordHotel.jpg" alt="The Bradford Hotel" />
-					</div>
-					<h3>The Bradford Hotel</h3>
-					<h4>Thursday 19th March 2020</h4>
-					<p>Bradford</p>
-				</div>
-			</div>
-			<div class="span4">
-				<div class="centered service">
-					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="The Acorn Inn" />
 					</div>
 					<h3>The Acorn Inn</h3>
 					<h4>Saturday 18th April 2020</h4>
 					<p>Eldwick</p>
+				</div>
+			</div>
+			<div class="span4">
+				<div class="centered service">
+					<div class="circle-border zoom-in">
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="The New Inn" />
+					</div>
+					<h3>The New Inn</h3>
+					<h4>Saturday 6th June 2020</h4>
+					<p>Wilsden</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Thursday 19th March 2020** - The Bradford Hotel  
 **Saturday 18th April 2020** - Acorn Inn, Eldwick  
 **Saturday 6th June 2020** - New Inn, Wilsden  
 **Thursday 25th June 2020** - Caroline St Club, Saltaire  
