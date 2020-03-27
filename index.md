@@ -77,7 +77,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="The Acorn Inn" />
 					</div>
 					<h3>The Acorn Inn</h3>
-					<h4>Saturday 18th April 2020</h4>
+					<h4>Postponed tbc</h4>
 					<p>Eldwick</p>
 				</div>
 			</div>
