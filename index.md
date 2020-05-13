@@ -87,7 +87,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="The New Inn" />
 					</div>
 					<h3>The New Inn</h3>
-					<h4>Saturday 6th June 2020</h4>
+					<h4>Postponed tbc</h4>
 					<p>Wilsden</p>
 				</div> 
 			</div>
@@ -104,8 +104,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 18th April 2020** - Acorn Inn, Eldwick  
-**Saturday 6th June 2020** - New Inn, Wilsden  
+**Sat 18 April 2020 - postponed** - Acorn Inn, Eldwick  
+**Sat 6 June 2020 - postponed** - New Inn, Wilsden  
 **Thursday 25th June 2020** - Caroline St Club, Saltaire  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 **Saturday 10th October 2020** - Bradley Wood, Brighouse  
