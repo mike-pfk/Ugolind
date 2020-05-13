@@ -106,7 +106,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 
 **Sat 18 April 2020 - postponed** - Acorn Inn, Eldwick  
 **Sat 6 June 2020 - postponed** - New Inn, Wilsden  
-**Thursday 25th June 2020** - Caroline St Club, Saltaire  
+**Thu 25 June 2020 - postponed** - Caroline St Club, Saltaire  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 **Saturday 10th October 2020** - Bradley Wood, Brighouse  
 **Thursday 29th October 2020** - Caroline St Club, Saltaire  
