@@ -31,7 +31,7 @@ layout: default
 				<p>ELO, The Commodores, Supergrass, Stevie Wonder, The Jam, Madness, Abba, The Jags, Blondie and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic8.jpg" width="320" alt="Band Photo 5">
+					<img src="{{ site.baseurl }}/assets/images/Band pic16.jpg" width="320" alt="Band Photo 16">
 				</div>
 			</div>
 			<!-- End second slide -->
@@ -43,7 +43,7 @@ layout: default
 gigs to check us out, and/or contact us to check our availability.</p>
 				<a href="#contact" class="da-link button">Contact us</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic3.jpg" width="320" alt="Band photo 3">
+					<img src="{{ site.baseurl }}/assets/images/Band pic17.jpg" width="320" alt="Band photo 17">
 				</div>
 			</div>
 			<!-- End third slide -->
