@@ -74,21 +74,21 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/acorneldwick.jpg" alt="The Acorn Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic17.jpg" alt="The Acorn Inn" />
 					</div>
-					<h3>The Acorn Inn</h3>
-					<h4>Postponed tbc</h4>
-					<p>Eldwick</p>
+					<h3>All gigs</h3>
+					<h4>Postponed due to</h4>
+					<p>Covid</p>
 				</div>
 			</div>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/venues/new-inn-wilsden.jpg" alt="The New Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic16.jpg" alt="The New Inn" />
 					</div>
-					<h3>The New Inn</h3>
-					<h4>Postponed tbc</h4>
-					<p>Wilsden</p>
+					<h3>All gigs</h3>
+					<h4>Postponed due to</h4>
+					<p>Covid</p>
 				</div> 
 			</div>
 			<div class="span4">
@@ -104,9 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Sat 18 April 2020 - postponed** - Acorn Inn, Eldwick  
-**Sat 6 June 2020 - postponed** - New Inn, Wilsden  
-**Thu 25 June 2020 - postponed** - Caroline St Club, Saltaire  
 **Saturday 3rd October 2020** - Groovy Happening, Haworth  
 **Saturday 10th October 2020** - Bradley Wood, Brighouse  
 **Thursday 29th October 2020** - Caroline St Club, Saltaire  
