@@ -104,23 +104,16 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 3rd October 2020** - Groovy Happening, Haworth  
 **Saturday 10th October 2020** - Bradley Wood, Brighouse  
-**Thursday 29th October 2020** - Caroline St Club, Saltaire  
 **Friday 13rd November 2020** - TBC  
-**Saturday 19th December 2020** - TBC  
 
 ### Recent Gigs
-**March** - Ossett Cricket & Athletic Club  
-**February 2019** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
+**March 2020** - Ossett Cricket & Athletic Club  
+**February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
 **December 2019** - Utley Rugby Club  
 **November 2019** - Kirkgate Centre, Shipley    
 **October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
 **September 2019** - Central Hall, Keighley    
-**August 2019** - The Woodman, Wibsey    
-**July 2019** - Town Hall, Hebden Bridge  
-**June 2019** - The Cricketers Arms, Keighley **&amp;** Caroline St Club, Saltaire  
-**April 2019** - The New Inn, Wilsden  
 
 </div>
 			
