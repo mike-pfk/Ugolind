@@ -104,7 +104,6 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 10th October 2020** - Bradley Wood, Brighouse  
 **Friday 13rd November 2020** - TBC  
 
 ### Recent Gigs
