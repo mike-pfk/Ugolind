@@ -74,11 +74,11 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
-						<img class="img-circle" src="{{ site.baseurl }}/assets/images/Band pic17.jpg" alt="The Acorn Inn" />
+						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
-					<h3>All gigs</h3>
-					<h4>Postponed due to</h4>
-					<p>Covid</p>
+					<h3>Mike on Facebook Live</h3>
+					<h4>24 September 2020</h4>
+					<p>https://www.facebook.com/events/1199461093767761</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -104,7 +104,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Friday 13rd November 2020** - TBC  
+**Thursday 24th September 2020** - Mike on Facebook Live  
 
 ### Recent Gigs
 **March 2020** - Ossett Cricket & Athletic Club  
