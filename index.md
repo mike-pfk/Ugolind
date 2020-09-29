@@ -77,8 +77,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
 					<h3>Mike on Facebook Live</h3>
-					<h4>24 September 2020</h4>
-					<p>https://www.facebook.com/events/1199461093767761</p>
+					<h4> 2020</h4>
+					<p>https://www.facebook.com/</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -107,6 +107,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 **Thursday 24th September 2020** - Mike on Facebook Live  
 
 ### Recent Gigs
+**September 2020** - Mike on Facebook Live  
 **March 2020** - Ossett Cricket & Athletic Club  
 **February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
 **December 2019** - Utley Rugby Club  
