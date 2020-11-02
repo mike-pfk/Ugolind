@@ -77,8 +77,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
 					<h3>Mike on Facebook Live</h3>
-					<h4> 2020</h4>
-					<p>https://www.facebook.com/</p>
+					<h4>3 December 2020</h4>
+					<p>https://www.facebook.com/events/351080696223286</p>
 				</div>
 			</div>
 			<div class="span4">
