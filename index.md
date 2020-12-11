@@ -77,8 +77,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
 					</div>
 					<h3>Mike on Facebook Live</h3>
-					<h4>10 December 2020</h4>
-					<p>https://www.facebook.com/events/351080696223286</p>
+					<h4>Feb? 2020</h4>
+					<p>facebook</p>
 				</div>
 			</div>
 			<div class="span4">
@@ -104,9 +104,10 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**10 December 2020** - Mike on Facebook Live  
+**? February 2020** - Mike on Facebook Live  
 
 ### Recent Gigs
+**December 2020** - Mike on Facebook Live  
 **September 2020** - Mike on Facebook Live  
 **March 2020** - Ossett Cricket & Athletic Club  
 **February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
