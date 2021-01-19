@@ -39,7 +39,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: #C0081F;
+    color: #963200;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -90,7 +90,7 @@ p {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid #C0081F;
+    border: 1px solid #963200;
     color: #fff;
     background-color: #7d96af;
     transition: border-color 1s ease;
@@ -114,7 +114,7 @@ p {
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
     border-radius:0;
-    background:#C0081F;
+    background:#963200;
     color: #000;
 }
 /******
@@ -219,7 +219,7 @@ p {
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#C0081F;
+    background-color:#963200;
     color:#181A1C;
 }
 .button-sp:hover, .button-sp:active {
@@ -232,7 +232,7 @@ p {
     color:#C0081F;
 }
 .button-ps:hover, .button-ps:active {
-    background-color:#C0081F;
+    background-color:#963200;
     color:#181A1C;
 }
 /*
@@ -283,7 +283,7 @@ p {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #C0081F;
+    color: #963200;
     margin-top:10px;
     font-size:20px;
 }
@@ -362,19 +362,19 @@ p {
     background:#181A1C;
 }
 .primary-section .triangle {
-    border-top: 40px solid #C0081F;
+    border-top: 40px solid #963200;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #C0081F;
+    color: #963200;
 }
 .primary-section h1 {
     color:#FFF;
 }
 .secondary-section {
-    background:#C0081F;
+    background:#963200;
 }
 .secondary-section .title {
     border-bottom: 1px solid #181A1C;
@@ -386,7 +386,7 @@ p {
 .third-section {
     padding-bottom: 70px;
     background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #C0081F;
+    border-top:6px solid #963200;
 }
 .third-section .container {
     padding-top:20px;
