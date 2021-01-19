@@ -1,5 +1,5 @@
 ---
-title: Playing For Kicks
+title: Ugolind
 layout: default
 ---
 	
@@ -15,9 +15,9 @@ layout: default
 		<div class="container">
 			<!-- Start first slide -->
 			<div class="da-slide">
-				<h2 class="fittext2">Playing For Kicks</h2>
-				<h4>Classic Covers</h4>
-				<p>Playing for Kicks play songs you know and love from the Cure to Nena and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
+				<h2 class="fittext2">Ugolind</h2>
+				<h4>Les an</h4>
+				<p>Donkeys play songs you know and love from the Cure to Nena and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
