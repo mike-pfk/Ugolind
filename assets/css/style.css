@@ -35,7 +35,7 @@
     line-height:20px;
 }
 a {
-    color:#181A1C;
+    color:#7d96af;
     text-decoration: none;
 }
 a:hover {
@@ -54,7 +54,7 @@ p {
     color: #fff;
 }
 .navbar {
-    background: #181A1C;
+    background: #7d96af;
     margin-bottom:0;
     min-height:70px;
 }
@@ -65,7 +65,7 @@ p {
     padding-top:0;
 }
 .navbar-inner {
-    background: #181A1C;
+    background: #7d96af;
     border-radius:0;
     filter: none;
     border: none;
@@ -82,7 +82,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    border: 1px solid #7d96af;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -92,7 +92,7 @@ p {
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #C0081F;
     color: #fff;
-    background-color: #181A1C;
+    background-color: #7d96af;
     transition: border-color 1s ease;
 }
 .nav-pills {
@@ -106,10 +106,10 @@ p {
     margin-right:5px;
     padding-left:25px;
     padding-right:25px;
-    border: 1px solid #181A1C;
+    border: 1px solid #7d96af;
 }
 .nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-    background: #181A1C;
+    background: #7d96af;
     color: #fff;
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
@@ -147,7 +147,7 @@ p {
     margin-bottom:20px;
 }
 .highlighted-box h1, .highlighted-box p {
-    color: #181A1C !important;
+    color: #7d96af !important;
 }
 .circle-border {
     display: inline-block;
@@ -176,7 +176,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #181A1C;
+    border-top: 30px solid #7d96af;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
@@ -206,15 +206,15 @@ p {
 **********/
  .button,  .button:visited, .button:focus {
     display:inline-block;
-    border:1px solid #181A1C;
-    color:#181A1C;
+    border:1px solid #7d96af;
+    color:#7d96af;
     background-color:transparent;
     padding:15px 30px;
     font-size:17px;
     line-height:auto;
 }
 .button:hover, .button:active{
-    background-color:#181A1C;
+    background-color:#7d96af;
     color:#fff;
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
@@ -228,7 +228,7 @@ p {
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
-    background-color:#181A1C;
+    background-color:#7d96af;
     color:#C0081F;
 }
 .button-ps:hover, .button-ps:active {
