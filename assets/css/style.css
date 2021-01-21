@@ -82,7 +82,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #7d96af;
+    border: 1px solid #181A1C;
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -92,7 +92,7 @@ p {
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
     border: 1px solid #963200;
     color: #fff;
-    background-color: #7d96af;
+    background-color: #181A1C;
     transition: border-color 1s ease;
 }
 .nav-pills {
