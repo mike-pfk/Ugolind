@@ -359,7 +359,7 @@ p {
     font-weight: lighter;
 }
 .primary-section {
-    background:#181A1C;
+    background:#BECAD7;
 }
 .primary-section .triangle {
     border-top: 40px solid #963200;
@@ -371,10 +371,10 @@ p {
     color: #963200;
 }
 .primary-section h1 {
-    color:#FFF;
+    color:#BECAD7;
 }
 .secondary-section {
-    background:#963200;
+    background:#7d96af;
 }
 .secondary-section .title {
     border-bottom: 1px solid #181A1C;
