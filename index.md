@@ -20,7 +20,7 @@ layout: default
 				<p>En calèche ou bâtés, nos amis se feront un plaisir de porter votre pique nique si vous souhaitez</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
+					<img src="{{ site.baseurl }}/assets/images/Florent2.jpg" alt="Florent and Family" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
@@ -31,7 +31,7 @@ layout: default
 				<p>ELO, The Commodores, Supergrass, Stevie Wonder, The Jam, Madness, Abba, The Jags, Blondie and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic16.jpg" width="320" alt="Band Photo 16">
+					<img src="{{ site.baseurl }}/assets/images/Enzo.jpg" width="320" alt="Enzo and Patrice">
 				</div>
 			</div>
 			<!-- End second slide -->
@@ -43,7 +43,7 @@ layout: default
 gigs to check us out, and/or contact us to check our availability.</p>
 				<a href="#contact" class="da-link button">Contact us</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Band pic17.jpg" width="320" alt="Band photo 17">
+					<img src="{{ site.baseurl }}/assets/images/Friends.jpg" width="320" alt="Ugo and Linda">
 				</div>
 			</div>
 			<!-- End third slide -->
