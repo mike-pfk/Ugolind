@@ -15,9 +15,9 @@ layout: default
 		<div class="container">
 			<!-- Start first slide -->
 			<div class="da-slide">
-				<h2 class="fittext2">Ugolind</h2>
-				<h4>Les an</h4>
-				<p>Donkeys play songs you know and love from the Cure to Nena and The Killers to Earth Wind and Fire. There's something for everyone and you're sure to have a great night.</p>
+				<h2 class="fittext2">Ugo'lind</h2>
+				<h4>Decouvrez l'âne, compagnon de voyage</h4>
+				<p>En calèche ou bâtés, nos amis se feront un plaisir de porter votre pique nique si vous souhaitez</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Band pic4.jpg" alt="Band Photo 4" width="320">
@@ -26,8 +26,8 @@ layout: default
 			<!-- End first slide -->
 			<!-- Start second slide -->
 			<div class="da-slide">
-			<h2>Playing For Kicks</h2>
-				<h4>Songs For Everybody</h4>
+			<h2>Ugo'lind</h2>
+				<h4>Balades avec nos amis aux grandes oreilles</h4>
 				<p>ELO, The Commodores, Supergrass, Stevie Wonder, The Jam, Madness, Abba, The Jags, Blondie and many more...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
