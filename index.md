@@ -65,9 +65,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 	<div class="container">
 		<!-- Start title section -->
 		<div class="title">
-			<h1>Gigs</h1>
+			<h1>Events</h1>
 			<!-- Section's title goes here -->
-			<p>We play at all sorts of venues and events including pub gigs, parties and charity events.  Here's a taste of what we've been up to and where we're going to be over the next few months.</p>
+			<p>Disponible pour reservation pour les fetes, les mariages, balades, visit etc.</p>
 			<!--Simple description for section goes here. -->
 		</div>
 		<div class="row-fluid">
@@ -104,17 +104,12 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**? February 2020** - Mike on Facebook Live  
+**Ete 2021** - Fete du St Martin?  
 
-### Recent Gigs
-**December 2020** - Mike on Facebook Live  
-**September 2020** - Mike on Facebook Live  
-**March 2020** - Ossett Cricket & Athletic Club  
-**February 2020** - Caroline St Club, Saltaire **&amp;** Shipley & District Social Club  
-**December 2019** - Utley Rugby Club  
-**November 2019** - Kirkgate Centre, Shipley    
-**October 2019** - Bradley Woods, Brighouse **&amp;** Salt Cellar, Saltaire **&amp;** Caroline St Club, Saltaire      
-**September 2019** - Central Hall, Keighley    
+### Evenements recent
+**December 2020** - Fete de Noel, St Martin Des Bois  
+**September 2020** - Mariages en St Arnoult  
+  
 
 </div>
 			
