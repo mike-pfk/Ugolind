@@ -71,7 +71,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<!--Simple description for section goes here. -->
 		</div>
 		<div class="row-fluid">
-			<div class="span4">
+			<!--<div class="span4">
 				<div class="centered service">
 					<div class="circle-border zoom-in">
 						<img class="img-circle" src="{{ site.baseurl }}/assets/images/members/mike-2016.png" alt="Mike" />
@@ -100,7 +100,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h4>Give Mike a Call</h4>
 					<p>07956 404017</p>
 				</div>
-			</div>
+			</div>-->
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
