@@ -54,7 +54,7 @@ p {
     color: #fff;
 }
 .navbar {
-    background: #181A1C;
+    background: #2D577F;
     margin-bottom:0;
     min-height:70px;
 }
@@ -176,7 +176,7 @@ p {
     text-align:center;
     width: 0;
     height: 0;
-    border-top: 30px solid #7d96af;
+    border-top: 30px solid #2D577F;
     border-left: 585px outset transparent;
     border-right: 585px outset transparent;
     position: relative;
