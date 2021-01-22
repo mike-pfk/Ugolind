@@ -100,8 +100,8 @@ gigs to check us out, and/or contact us to check our availability.</p>
 					<h4>Give Mike a Call</h4>
 					<p>07956 404017</p>
 				</div>
-			</div>-->
-			<p>&nbsp;</p>
+			</div>
+			<p>&nbsp;</p>-->
 			<div style="text-align: center;" markdown="1">
 
 **Ete 2021** - Fete du St Martin?  
