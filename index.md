@@ -16,7 +16,7 @@ layout: default
 			<!-- Start first slide -->
 			<div class="da-slide">
 				<h2 class="fittext2">Ugo'lind</h2>
-				<h4>Decouvrez l'âne, compagnon de voyage</h4>
+				<h4>Decouvrez l'âne</h4>
 				<p>En calèche ou bâtés, nos amis se feront un plaisir de porter votre pique nique si vous souhaitez</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
@@ -27,8 +27,8 @@ layout: default
 			<!-- Start second slide -->
 			<div class="da-slide">
 			<h2>Ugo'lind</h2>
-				<h4>Balades avec nos amis aux grandes oreilles</h4>
-				<p>ELO, The Commodores, Supergrass, Stevie Wonder, The Jam, Madness, Abba, The Jags, Blondie and many more...</p>
+				<h4>Balades avec nos amis</h4>
+				<p>nos amis aux grandes oreilles et leurs cousins laineux</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Enzo.jpg" width="320" alt="Enzo and Patrice">
@@ -37,10 +37,9 @@ layout: default
 			<!-- End second slide -->
 			<!-- Start third slide -->
 			<div class="da-slide">
-				<h2>Playing For Kicks</h2>
-				<h4>Book us!</h4>
-				<p>Looking for a band for an event, function or your music venue? Come along to one of our
-gigs to check us out, and/or contact us to check our availability.</p>
+				<h2>Ugo'lind</h2>
+				<h4>L'âne, compagnon de voyage</h4>
+				<p>Contactez-nous pour plus d'informations</p>
 				<a href="#contact" class="da-link button">Contact us</a>
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Friends.jpg" width="320" alt="Ugo and Linda">
@@ -65,7 +64,7 @@ gigs to check us out, and/or contact us to check our availability.</p>
 	<div class="container">
 		<!-- Start title section -->
 		<div class="title">
-			<h1>Events</h1>
+			<h1>Evenements</h1>
 			<!-- Section's title goes here -->
 			<p>Disponible pour reservation pour les fetes, les mariages, balades, visit etc.</p>
 			<!--Simple description for section goes here. -->
@@ -104,9 +103,9 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>-->
 			<div style="text-align: center;" markdown="1">
 
-**Ete 2021** - Fete du St Martin?  
+**Ete 2021** - Disponible  
 
-### Evenements recent
+### Événements récents
 **December 2020** - Fete de Noel, St Martin Des Bois  
 **September 2020** - Mariages en St Arnoult  
   
