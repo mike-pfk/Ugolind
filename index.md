@@ -40,7 +40,7 @@ layout: default
 				<h2>Ugo'lind</h2>
 				<h4>L'âne, compagnon de voyage</h4>
 				<p>Contactez-nous pour plus d'informations</p>
-				<a href="#contact" class="da-link button">Contact us</a>
+				<a href="#contact" class="da-link button">Contact</a>
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/Friends.jpg" width="320" alt="Ugo and Linda">
 				</div>
