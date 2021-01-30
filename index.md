@@ -103,8 +103,8 @@ layout: default
 			<p>&nbsp;</p>-->
 			<div style="text-align: center;" markdown="1">
 
-**2021** - selon les évènements sanitaires  
-**Mars, Juin et Juillet 2021** - des participations aux fêtes de l'âne  
+**2021** - Selon les évènements sanitaires  
+**Mars, Juin et Juillet 2021** - Des participations aux fêtes de l'âne  
 **Mai 2021** - Un Mariage  
 **Novembre et Decembre 2021** - Des marchés de Noël    
 
@@ -112,11 +112,11 @@ layout: default
 
 
 ### Ugo'lind a participé en 2019 et 2020:  
-à l'anniversaire des 500 ans du château de Chambord  
-à une superbe ballade dans la baie du Mont St Michel  
-au défilé, en ville de Vendôme, seuls ânes parmi 60 chevaux, à l'occasion de la fête du cheval  
-à Ferme Expo  Tours  
-à plusieurs marchés de Noël  
+À l'anniversaire des 500 ans du château de Chambord  
+À une superbe ballade dans la baie du Mont St Michel  
+Au défilé, en ville de Vendôme, seuls ânes parmi 60 chevaux, à l'occasion de la fête du cheval  
+À Ferme Expo  Tours  
+À plusieurs marchés de Noël  
 ### Avant 2019:  
 Randonnée sur les plages de l'ile d'Oléron  
 Concours d'utilisation régionaux
