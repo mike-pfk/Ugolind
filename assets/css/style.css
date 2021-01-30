@@ -206,8 +206,8 @@ p {
 **********/
  .button,  .button:visited, .button:focus {
     display:inline-block;
-    border:1px solid #7d96af;
-    color:#7d96af;
+    border:1px solid #963200;
+    color:#2D577F;
     background-color:transparent;
     padding:15px 30px;
     font-size:17px;
