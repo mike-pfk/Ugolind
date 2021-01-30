@@ -248,7 +248,7 @@ p {
     border-radius:0;
     box-shadow:none;
     text-align:center;
-    background: #191a1c;
+    background: #7d96af;
 }
 .thumbnail .more {
     display:block;
@@ -368,7 +368,7 @@ p {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #963200;
+    color: #7d96af;
 }
 .primary-section h1 {
     color:#181A1C;
