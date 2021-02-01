@@ -1,16 +1,16 @@
 links:
 
 - title: Acceuil
-  url: '#Home'
+  url: '#home'
 
 - title: Événements
-  url: '#Gigs'
+  url: '#gigs'
 
 - title: Galerie
-  url: '#Gallery'
+  url: '#gallery'
 
 - title: L'équipe
-  url: '#About'
+  url: '#about'
   
 - title: Contact
   url: '#contact'
