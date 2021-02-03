@@ -20,7 +20,7 @@ layout: default
 				<p>la complicité, la prudence , le courage , la force et la mémoire de l'âne...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Florent2.jpg" alt="Florent and Family" width="320">
+					<img src="{{ site.baseurl }}/assets/images/ballade.jpg" alt="ballade" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
@@ -31,7 +31,7 @@ layout: default
 				<p>des petits et des grands !!!  En calèche ou bâtés,  nos amis aux grandes oreilles se feront un plaisir de porter votre pique nique, si vous le désirez, lors de promenades organisées.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Enzo.jpg" width="320" alt="Enzo and Patrice">
+					<img src="{{ site.baseurl }}/assets/images/500 ans de Chambord.jpg" width="320" alt="Chambord">
 				</div>
 			</div>
 			<!-- End second slide -->
@@ -42,7 +42,7 @@ layout: default
 				<p>Contactez-nous pour plus d'informations</p>
 				<a href="#contact" class="da-link button">Contact</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/Friends.jpg" width="320" alt="Ugo and Linda">
+					<img src="{{ site.baseurl }}/assets/images/page de garde.jpg" width="320" alt="Les quatres">
 				</div>
 			</div>
 			<!-- End third slide -->
