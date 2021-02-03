@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
-  title: "Bradley Wood"
-  photo: "Sun and Mask.jpg"
+  title: "Marchés de Noël"
+  photo: "Noel.jpg"
   when: "2020"
-  what: "Grim Up North"
-  description: "We always have a great time at Grim, and this year they danced with us all through the second set and then wouldn't let us go until we'd played five encores! Fantastic night."
+  what: "Marchés de Noël"
+  description: "Chaque année nous sommes a plusieurs marchés de Noël en Novembre et Décembre"
 
 - number: 1
-  title: "Central Hall, Keighley"
-  photo: "Prize.jpg"
-  when: "September 2019"
-  what: "Keighley Pride"
-  description: "We were proud to play at the first ever Keighley Pride. We had a great day and finished the afternoon off in our usual style!"
+  title: "Salon de l'agriculture"
+  photo: "Salon.jpg"
+  when: "2018"
+  what: "L'Âne du Cotentin"
+  description: "Ugolin au Salon de l'agriculture 2018 représente les ânes du Cotentin - 2éme au classement. Ugolin a aussi participé au Trophée National de l'Äne en 2017 - 3éme au classement."
   
 - number: 2
-  title: "Utley Rugby Club"
-  photo: "Pere Noel.jpg"
-  when: "December 2018"
-  what: "Winter Ball"
-  description: "Another very warm welcome from People First. One of our longest standing gigs, we always have a great time. Jonathan even got dressed up for it!"
+  title: "St Martin Des Bois"
+  photo: "traction.jpg"
+  when: "2019"
+  what: "Entrainement"
+  description: "Entrainement concours traction."
 
