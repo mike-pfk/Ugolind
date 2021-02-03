@@ -20,7 +20,7 @@ layout: default
 				<p>la complicité, la prudence , le courage , la force et la mémoire de l'âne...</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/ballade.jpg" alt="ballade" width="320">
+					<img src="{{ site.baseurl }}/assets/images/ballade.JPG" alt="ballade" width="320">
 				</div>
 			</div>
 			<!-- End first slide -->
