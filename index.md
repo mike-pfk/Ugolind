@@ -16,8 +16,8 @@ layout: default
 			<!-- Start first slide -->
 			<div class="da-slide">
 				<h2 class="fittext2">Ugo'lind</h2>
-				<h4>Decouvrez...</h4>
-				<p>la complicité, la prudence , le courage , la force et la mémoire de l'âne...</p>
+				<h4>L'âne compagnon de voyage</h4>
+				<p>des petits et des grands!! En calèche ou bâtés, nos amis aux grandes oreilles se feront un plaisir de porter votre pique nique, si vous le désirez, lors de promenades organisées.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/ballade.JPG" alt="ballade" width="320">
@@ -27,22 +27,22 @@ layout: default
 			<!-- Start second slide -->
 			<div class="da-slide">
 			<h2>Ugo'lind</h2>
-				<h4>L'âne compagnon de voyage</h4>
-				<p>des petits et des grands !!!  En calèche ou bâtés,  nos amis aux grandes oreilles se feront un plaisir de porter votre pique nique, si vous le désirez, lors de promenades organisées.</p>
+				<h4>Promenade dans la vallée du Loir</h4>
+				<p>A la recherche de calme, d’oxygène, profitant de la nature et de la beauté des sites (Lavardin, Trôo…). Au rythme des pas de l’âne.</p>
 				<!-- <a href="#" class="da-link button">Read more</a> -->
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/500 ans de Chambord.jpg" width="320" alt="Chambord">
+					<img src="{{ site.baseurl }}/assets/images/Troo.jpg" width="320" alt="Trôo">
 				</div>
 			</div>
 			<!-- End second slide -->
 			<!-- Start third slide -->
 			<div class="da-slide">
 				<h2>Ugo'lind</h2>
-				<h4>L'âne, compagnon de voyage</h4>
-				<p>Contactez-nous pour plus d'informations</p>
+				<h4>Decouvrez...</h4>
+				<p>la complicité, la prudence , le courage , la force et la mémoire de l'âne... Contactez-nous pour plus d'informations</p>
 				<a href="#contact" class="da-link button">Contact</a>
 				<div class="da-img">
-					<img src="{{ site.baseurl }}/assets/images/page de garde.jpg" width="320" alt="Les quatres">
+					<img src="{{ site.baseurl }}/assets/images/500 ans de Chambord.jpg" width="320" alt="Chambord">
 				</div>
 			</div>
 			<!-- End third slide -->
