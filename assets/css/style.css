@@ -365,7 +365,7 @@ p {
     border-top: 40px solid #7d96af;
 }
 .primary-section .title {
-    border-bottom: 1px solid #FFF;
+<!--    border-bottom: 1px solid #FFF;-->
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
     color: #181A1C;
