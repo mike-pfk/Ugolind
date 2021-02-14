@@ -447,11 +447,11 @@ p {
     width:80%;
 }
 .project-title .close {
-    color: #C0081F;
+    color: #963200;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#C0081F;
+    color:#963200;
 }
 .project-info {
     font-weight:100;
