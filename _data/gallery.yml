@@ -1,23 +1,23 @@
 gigs:
 
 - number: 0
-  title: "Marchés de Noël"
-  photo: "Noel.jpg"
+  title: "Covid"
+  photo: "Masks.jpg"
   when: "2020"
-  what: "Marchés de Noël"
-  description: "Chaque année nous sommes a plusieurs marchés de Noël en Novembre et Décembre"
+  what: "Ballade avec des masques"
+  description: "Nous avons eu la chance de pouvoir profiter de randonnées dans des conditions sécuritaires Covid."
 
 - number: 1
+  title: "Marchée de Noël"
+  photo: "Noel.jpg"
+  when: "2019"
+  what: "Marchée de Noël"
+  description: "Ugolin promène les Enfants, émerveillés par les décorations des stands de produits locaux, dans une atmosphère parfumée, de crèpes au sucre, de marron grillés et de vin chaux, dans l’ambiance des merveilleux chants de Noël."
+  
+- number: 2
   title: "Salon de l'agriculture"
   photo: "Salon.jpg"
   when: "2018"
   what: "L'Âne du Cotentin"
   description: "Ugolin au Salon de l'agriculture 2018 représente les ânes du Cotentin - 2éme au classement. Ugolin a aussi participé au Trophée National de l'Äne en 2017 - 3éme au classement."
-  
-- number: 2
-  title: "St Martin Des Bois"
-  photo: "traction.jpg"
-  when: "2019"
-  what: "Entrainement"
-  description: "Entrainement concours traction."
 
