@@ -39,7 +39,7 @@ layout: default
 			<div class="da-slide">
 				<h2>Ugo'lind</h2>
 				<h4>Decouvrez...</h4>
-				<p>la complicité, la prudence , le courage , la force et la mémoire de l'âne... Contactez-nous pour plus d'informations</p>
+				<p>la complicité, la prudence, le courage, la force et la mémoire de l'âne... Contactez-nous pour plus d'informations</p>
 				<a href="#contact" class="da-link button">Contact</a>
 				<div class="da-img">
 					<img src="{{ site.baseurl }}/assets/images/500 ans de Chambord.jpg" width="320" alt="Chambord">
@@ -66,7 +66,7 @@ layout: default
 		<div class="title">
 			<h1>Evenements</h1>
 			<!-- Section's title goes here -->
-			<p>Ugo’lind vous propose ses services pour vos fêtes, (privées ou associatives) mariages, anniversaires , animations , etc...</p>
+			<p>Ugo’lind vous propose ses services pour vos fêtes, (privées ou associatives) mariages, anniversaires, animations, etc...</p>
 			<!--Simple description for section goes here. -->
 		</div>
 		<div class="row-fluid">
@@ -103,10 +103,10 @@ layout: default
 			<p>&nbsp;</p>-->
 			<div style="text-align: center;" markdown="1">
 
-**2021** - Selon les évènements sanitaires  
+**2021** - Selon la situation sanitaires  
 **Mars, Juin et Juillet 2021** - Des participations aux fêtes de l'âne  
 **Mai 2021** - Un Mariage  
-**Novembre et Decembre 2021** - Des marchés de Noël    
+**Novembre et Décembre 2021** - Des marchés de Noël    
 
 
 
@@ -114,7 +114,7 @@ layout: default
 ### Ugo'lind a participé en 2019 et 2020:  
 À l'anniversaire des 500 ans du château de Chambord  
 À une superbe ballade dans la baie du Mont St Michel  
-Au défilé, en ville de Vendôme, seuls ânes parmi 60 chevaux, à l'occasion de la fête du cheval  
+Au défilé, dans la ville de Vendôme, seuls ânes parmi 60 chevaux, à l'occasion de la fête du cheval  
 À Ferme Expo  Tours  
 À plusieurs marchés de Noël  
 ### Avant 2019:  
@@ -123,8 +123,8 @@ Concours d'utilisation régionaux
 Finales nationales 2015 à Villepinte Paris  
 Finale Nationale 2016 à Equita Lyon  
 Salon International de l'Agriculture à Paris  
-Participation au Trophée National de l'Äne en 2017 3éme au classement  
-Participation au Trophée National de l'Äne en 2018 2éme au classement  
+Participation au Trophée National de l'Âne en 2017 3éme au classement  
+Participation au Trophée National de l'Âne en 2018 2éme au classement  
 
 
 </div>
