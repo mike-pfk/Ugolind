@@ -908,6 +908,30 @@ p {
         margin-top:30px;
     }
     .da-slider {
+   	height: 365px !important;
+    }
+    .da-slide h4 {
+    	font-size: 14px !important;
+    	top: 80px !important;
+    }
+    .da-slide p {
+	display: block !important;
+	height: 115px !important;
+	top: 120px !important;
+    }
+    .da-slide .da-img {
+	display:block !important;
+       	width: 36% !important;
+	top: 50px !important;
+    }
+    .da-img img {
+	top: 33px !important;
+	position: relative !important;
+    }
+}
+
+@media (max-width: 450px) {
+    .da-slider {
    	height: 260px !important;
     }
     .da-slide h4 {
