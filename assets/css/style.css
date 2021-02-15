@@ -895,6 +895,9 @@ p {
     .newsletter form {
         text-align:center;
     }
+    .da-slide .da-img {
+       	width: 36% !important;
+    }
 }
 @media (max-width: 767px) {
     .info-mail {
@@ -927,6 +930,9 @@ p {
     .da-img img {
 	top: 33px !important;
 	position: relative !important;
+    }
+    .da-slide .da-link {
+    	top: 200px !important;
     }
 }
 
