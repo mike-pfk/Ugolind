@@ -907,4 +907,7 @@ p {
     .price-column, .testimonial {
         margin-top:30px;
     }
+    .da-slider {
+   	height: 240px !important;
+    }
 }
