@@ -908,6 +908,24 @@ p {
         margin-top:30px;
     }
     .da-slider {
-   	height: 240px !important;
+   	height: 260px !important;
+    }
+    .da-slide h4 {
+    	font-size: 12px;
+    	top: 55px;
+    }
+    .da-slide p {
+	display: block !important;
+	height: 115px;
+	top: 95px;
+    }
+    .da-slide .da-img {
+	display:block !important;
+       	width: 36%;
+	top: 50px;
+    }
+    .da-img img {
+	top: 33px;
+	position: relative;
     }
 }
