@@ -8,16 +8,16 @@ gigs:
   description: "Nous avons eu la chance de pouvoir profiter de randonnées dans des conditions sécuritaires Covid."
 
 - number: 1
-  title: "Marchée de Noël"
+  title: "Marché de Noël"
   photo: "Noel.jpg"
   when: "2019"
-  what: "Marchée de Noël"
-  description: "Ugolin promène les Enfants, émerveillés par les décorations des stands de produits locaux, dans une atmosphère parfumée, de crèpes au sucre, de marron grillés et de vin chaux, dans l’ambiance des merveilleux chants de Noël."
+  what: "Marché de Noël"
+  description: "Ugolin promène les Enfants, émerveillés par les décorations des stands de produits locaux, dans une atmosphère parfumée, de crèpes au sucre, de marrons grillés et de vin chaud, dans l’ambiance des merveilleux chants de Noël."
   
 - number: 2
   title: "Salon de l'agriculture"
   photo: "Salon.jpg"
   when: "2018"
   what: "L'Âne du Cotentin"
-  description: "Ugolin au Salon de l'agriculture 2018 représente les ânes du Cotentin - 2éme au classement. Ugolin a aussi participé au Trophée National de l'Äne en 2017 - 3éme au classement."
+  description: "Ugolin au Salon de l'agriculture 2018 représente les ânes du Cotentin - 2éme au classement. Ugolin a aussi participé au Trophée National de l'Âne en 2017 - 3éme au classement."
 
