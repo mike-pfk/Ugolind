@@ -64,7 +64,7 @@ layout: default
 	<div class="container">
 		<!-- Start title section -->
 		<div class="title">
-			<h1>Evenements</h1>
+			<h1>Événements</h1>
 			<!-- Section's title goes here -->
 			<p>Ugo’lind vous propose ses services pour vos fêtes, (privées ou associatives) mariages, anniversaires, animations, etc...</p>
 			<!--Simple description for section goes here. -->
